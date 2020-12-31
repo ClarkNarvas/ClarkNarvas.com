@@ -5,6 +5,7 @@ date:   2019-11-17 11:12:38 +0000
 featured-image: /assets/blogposts/DeGooglingMyAndroid/Open-Source-Blog-Thumbnail-768x432.png
 thumbnail-alt: Phone with open source logos in the background
 tags: DeGoogling
+description: This is how I took back my privacy, and DeGoogled my phone.
 ---
 
 {% include components/quote.html text="“Everytime you create a new account, whenever you accept those dialogs that are asking for cookies, whenever you make a search online. You are being watched and companies from big to small are trying to build a big picture about who you are, your interests, your age and so much more.”" %}

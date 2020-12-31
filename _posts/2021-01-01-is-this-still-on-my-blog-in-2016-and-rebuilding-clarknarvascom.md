@@ -1,6 +1,6 @@
 ---
 layout: clarkpost
-title:  "Is this still on? My blog in 2016, rebuilding ClarkNarvas.com and my goals this year"
+title:  "Is this still on? My blog in 2016 and rebuilding ClarkNarvas.com"
 date:   2021-01-01 00:00:00 +0000
 featured-image: /assets/blogposts/LookAtOldBlogNewBlog/thumbnail.png
 thumbnail-alt: Folder saying 2021 being created

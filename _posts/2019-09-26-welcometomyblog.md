@@ -5,6 +5,7 @@ date:   2019-09-26 11:12:38 +0000
 featured-image: /assets/brand/generic.png
 thumbnail-alt: Clark smiling
 tags: StartHere
+description: This is the first post of my blog.
 ---
 
 Well, hello there traveller.

@@ -14,7 +14,7 @@
 
 <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 
-<!--- <link rel="canonical" href="{{ page.url | prepend: site.url }}"> --->
+<link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
 <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
 <meta property="og:description" content="{{ page.description }}"/>
