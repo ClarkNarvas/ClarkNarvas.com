@@ -1,0 +1,152 @@
+
+
+/* start of border body stuff*/
+#top, #bottom, #left, #right {
+	background: #467cff;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 20px;
+    z-index: 10000;
+    animation-name: border-top;
+    animation-duration: 1s ease;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 20px;
+    z-index: 10000;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
+
+        @media
+
+    /* Fairly small screens including iphones */
+
+
+    only screen and (max-width: 900px)  {
+    	#top, #bottom { height: 10px;}
+
+     #left, #right { width: 10px; }
+
+
+     
+    .container-writing {
+        width: auto !important;
+        margin: 0;
+    }
+
+    .page-details-2 {
+        display: none;
+    }
+
+    .page-details .page-date {
+        display: block !important;
+    }
+
+    
+
+    }
+
+
+body {
+    font-family: Lato, Arial;
+    scrollbar-base-color: #467cff;
+    font-size: 110%;
+    border: 15px solid #467cff;;
+    min-height: 100vh;
+}
+
+.bg-light {
+    background-color: #f1f5ff;
+}
+
+
+p {
+    font-family: 'Arvo';
+}
+
+.container-writing {
+    width: 700px;
+    margin: auto;
+}
+
+.page-title-box {
+    background-color: red;
+}
+
+.page-title {
+    padding-bottom: 10px;
+}
+
+.page-details {
+    border-bottom: #467cff 3px solid;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: Lato;
+    font-weight: 900;
+    padding: 0;
+    margin: 0;
+}
+
+
+a.categoryicon:hover {
+    color: white;
+}
+
+a {
+    text-decoration: underline dotted 1px;
+}
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+
+.thumbnail-image {
+    width: 100%;
+    height: 62vh;
+}
+
+.categoryicon {
+    background-color: #467cff;
+    padding: 7px;
+    color: white;
+    border-radius: 15px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+
+.footer {
+    background-color:#ebf0ff;
+    min-height: 200px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+
+
+
+
+/* an insight */
+
+.anworldof {
+    font-size: 80% !important;
+    font-family: Arvo;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.insighttagline {
+    color: #467cff;
+}
+

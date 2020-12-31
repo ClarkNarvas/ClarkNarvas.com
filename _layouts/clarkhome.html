@@ -1,0 +1,55 @@
+{% include header.html %}
+
+
+<div class="homepage-top">
+    <div class="container-fluid">
+        <div class="row">
+            <div  style="background-color: #d2dffc; padding: 20px;padding-top: 50px;padding-bottom: 50px;color: #3672ff;">
+                    <h2>{{ page.home-tagline }}</h2>
+            </div>
+
+        </div>
+
+        <div class="homepage-top-bottom row" style="background-color:#3672ff;padding: 25px;">
+            <div class="col-md-6 align-middle" style="background-color: #3672ff;padding-bottom: 20px;">
+
+                {% for post in site.posts limit: 1%}
+                <div class="homepage-top-text align-middle" style="display: inline-block;">
+                    <p style="color: white; padding-top: 10px;font-family: Lato;">🤓 THE LATEST</p>
+                    <h2 style="color: white;">{{ post.title }}</h2>
+                    <p style="color: white;padding-top: 10px;">{{ post.content | strip_html | truncatewords: 40 }}</p>
+                    <a class="btn btn-light" href="{{ post.url }}" role="button">Read More 🧾</a>
+                 </div>
+                
+            </div>
+        
+            <div class="col-md-6 fill" style="max-height: 400px;background-color: #3672ff; border-radius: 25px;">
+                <img src="{{ post.featured-image }}" alt="{{post.thumbnail-alt}}" style="width: 140%; height: auto">
+
+                
+        
+            </div>
+            {% endfor %}
+        </div>
+
+
+
+
+</div>
+<div class="container-fluid">
+
+    <div class="row justify-content-center">
+
+        {% for post in site.posts limit:6 %}
+            {% include components/blogcard.html %}
+
+        {% endfor %}
+</div>
+</div>
+
+<a href="/allblogs"><h2 style="text-align: center;margin: 30px;"> << More Blog Posts</h2></a>
+</div>
+
+{% include newsletterpromotion.html %}
+
+{% include footer.html %}

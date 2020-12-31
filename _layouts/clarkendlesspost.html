@@ -1,0 +1,27 @@
+{% include header.html %}
+
+
+<div class="homepage-top">
+    <div class="container-fluid">
+        <div class="row">
+            <div  style="background-color: #d2dffc; padding: 20px;padding-top: 20px;padding-bottom: 20px;color: #3672ff;">
+                    <h2>{{ page.title }}</h2>
+                    <p>{{ page.description }}</p>
+            </div>
+
+</div>
+<div class="container-fluid">
+    <div class="row justify-content-center">
+
+        {% for post in site.posts %}
+        {% include components/blogcard.html %}
+        {% endfor %}
+    </div>
+    
+
+
+</div>
+</div>
+{% include newsletterpromotion.html %}
+
+{% include footer.html %}

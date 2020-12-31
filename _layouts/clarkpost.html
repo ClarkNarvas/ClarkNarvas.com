@@ -1,0 +1,62 @@
+
+
+{% include header.html %}
+  <div class="thumbnail-image fill">
+      <img alt="{{page.thumbnail-alt}}" src="{{page.featured-image}}" style="width: 170%; height: auto;">
+  </div>
+
+<div class="container" style="    padding-top: 25px;
+padding-bottom: 10px;">
+
+
+  <div class="row">
+    <div class="container-writing">
+      <div class="page-details">
+        <h1 class="page-title">{{ page.title }} </h1>
+        <span class="page-date">{{ page.date | date: '%B %d, %Y' }}</span>
+        <br>
+        <span class="categoryicon">#{{ page.tags }}</span>
+      </div>
+      {{content}}
+    </div>
+
+    <!-----
+  <div class="col-lg-5">
+    <div class="page-details-2">
+      <span class="page-date" style="display: block;">This post was written on {{ page.date | date: '%B %d, %Y' }}</span>
+
+      <span style="display: block;">Find more posts like this:</span>
+      <a class="categoryicon" href="{{site.baseurl}}/categories/#{{category|slugize}}">#{{ page.categories }}</a>
+    </div>
+
+  </div>
+  --->
+  </div>
+</div>
+
+{% include newsletterpromotion.html %}
+<style>
+  .page-details-2 {
+    padding: 10px;
+  }
+
+
+
+  @media
+
+/* Fairly small screens including iphones */
+
+
+only screen and (max-width: 900px)  {
+  #top, #bottom { height: 10px;}
+
+ #left, #right { width: 10px; }
+
+
+ 
+.thumbnail-image {
+  height: 35vh;
+}
+}
+</style>
+{% include footer.html %}

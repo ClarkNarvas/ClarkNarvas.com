@@ -1,0 +1,53 @@
+<div class="blog-card col-lg-3">
+    <div style="height: 250px;border-radius: 10px;background-color: #bfd0ff;" class="fill">
+        <img class="blog-thumbnail" alt="{{post.thumbnail-alt}}" loading="lazy" src="{{ post.featured-image }}" style="width: auto; height: 120%;">
+    </div>
+
+    <span class="categoryicon">#{{ post.tags }}</span>
+    <a href="{{post.url}}"><h2 style="margin-bottom: 5px;margin-top: 10px;">{{post.title}}</h2></a>
+    <p style="font-size: 90% !important;">{{ post.content | strip_html | truncatewords: 15 }}</p>
+
+    <span class="page-date">{{ post.date | date: '%B %d, %Y' }}</span>
+</div>
+
+<style>
+    
+.blog-card {
+    min-height: 450px;
+    margin: 15px;
+    border-bottom: 2px #bfd0ff solid;
+    padding-bottom: 15px;
+}
+
+
+
+@media
+
+/* Fairly small screens including iphones */
+
+
+only screen and (max-width: 900px)  {
+    
+    .blog-card {
+        margin-top: 20px !important;
+        margin-left: 30px;
+        margin-right: 30px;
+        padding-bottom: 20px;
+        margin: 0;
+        font-size: 100%;
+        min-height: 300px;
+        height: auto;
+        
+
+    }
+
+    .blog-card p {
+        display: none;
+    }
+
+    .blog-card .fill {
+        border-radius: 5px !important;
+        height: 200px !important;
+    }
+}
+</style>
