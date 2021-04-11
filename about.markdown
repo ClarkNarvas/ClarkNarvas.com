@@ -3,6 +3,7 @@ layout: clarkpage
 title: Me
 permalink: /me/
 navigation_weight: 2
+featured-image: /assets/oldsitearchive/uploads/2020/10/thing-1212.png
 ---
 
 {% include components/image.html url="/assets/oldsitearchive/uploads/2020/10/thing-1212.png" description="My sister sneakily getting in from Leeds"%}

@@ -104,6 +104,17 @@ a.categoryicon:hover {
 a {
     text-decoration: underline dotted 1px;
 }
+
+a:active {
+    background-color: #467cff;
+    color: white;
+}
+
+a.noactiveeffect:active {
+    background-color: transparent !important;
+    color: inherit !important;
+    color: black;
+}
 .fill {
     display: flex;
     justify-content: center;

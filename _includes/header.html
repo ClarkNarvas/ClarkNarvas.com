@@ -22,7 +22,7 @@
 <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
 <meta property="og:description" content="{{ page.description }}"/>
 <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-<meta property="og:image" content="{% if page.thumbnail %}https://clarknarvas.com{{ page.thumbnail }}{% else %}https://clarknarvas.com/assets/brand/website.png{% endif %}"/>
+<meta property="og:image" content="{% if page.thumbnail %}https://clarknarvas.com{{ page.featured-image }}{% else %}https://clarknarvas.com/assets/brand/website.png{% endif %}"/>
 <meta property="og:image:width" content="1920"/>
 <meta property="og:image:height" content="1080"/>
 
@@ -65,7 +65,7 @@
     <nav class="navbar navbar-expand-lg navbar-light navbar-fixed" style="background-color:#e1e8fa;">
       <div class="container-fluid">
         <a class="navbar-brand" href="/index.html">
-          <img src="/assets/brand/bluelogo.png" alt="Clark Narvas" width="auto" height="40" class="d-inline-block align-top">
+          <img src="/assets/brand/bluelogo.png" alt="Clark Narvas" width="auto" height="40" class="d-inline-block align-top noactiveeffect">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
