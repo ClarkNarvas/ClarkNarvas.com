@@ -3,8 +3,6 @@ layout: clarkpage
 title:  "By Clark"
 featured-image: /assets/brand/generic.png
 thumbnail-alt: Clark smiling
-tags: StartHere
-description: This is the first post of my blog.
 navigation_weight: 3
 ---
 
