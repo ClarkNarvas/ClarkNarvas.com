@@ -21,11 +21,11 @@
 title: Clark Narvas
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An insight into the world of 🤓 - I’m Clark Narvas. I am a nerdy 15 year old content creator creating wonderful and mad blogs/videos/podcasts about productivity, technology, studying and all things in between. 🌟
+  "An insight into the world of 🤓 - I’m Clark Narvas. I am a nerdy 15 year old content creator creating wonderful and mad blogs/videos/podcasts about productivity, technology, studying and all things in between. 🌟"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: clarknarvas
+github_username:  clarknarvas
 
 # Build settings
 theme: minima
@@ -59,5 +59,5 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-      featured-image: /assets/brand/generic.png
+      featured-image: "/assets/brand/generic.png"
 
