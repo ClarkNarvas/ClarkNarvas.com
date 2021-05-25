@@ -19,10 +19,6 @@ A bunch of projects I've made in my freetime, check them out!
 <a class="btn btn-primary" href="https://labournexus.org.uk">Check it out!</a>
 <div style="margin-bottom: 30px"></div>
 
-<!---
-{% include components/image.html url="/assets/images/byclark/labournexus.png" alt"Tommy Kirkwood for Labour Youth Rep on NEC" description="Tommy Kirkwood for Labour Youth Rep on the NEC // Branding, Website, Communications, Video, Strategy" %}
-<a class="btn btn-primary" href="https://labournexus.org.uk">Check it out!</a>
 
--->
 </center>
 .
