@@ -8,3 +8,7 @@ home-tagline: Hi there, I’m Clark Narvas. I am a nerdy 15 year old creating wo
 thumbnail: /assets/brand/website.png
 ---
 
+<center>
+Geno Veva
+You will be missed.
+</center>
