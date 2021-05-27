@@ -1,0 +1,32 @@
+
+
+{% include headerblank.html %}
+
+<div class="container" style="padding-top: 25px;
+padding-bottom: 10px;">
+
+
+<div class="row">
+  <div class="container-writing">
+    <div class="page-details">
+      <h1 class="page-title dark">{{ page.title }} </h1>
+    </div>
+    {{content}}
+  </div>
+
+
+
+</div>
+</div>
+
+
+<style>
+.page-details-2 {
+  padding: 10px;
+}
+
+.page-details {
+    border-bottom: black 3px solid !important;
+}
+</style>
+{% include footer.html %}

@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link href="/assets/style.css" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Arvo&family=Lato:wght@400;900&display=swap" rel="stylesheet"> 
+
+<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+
+<link rel="canonical" href="{{ page.url | prepend: site.url }}">
+
+<script async defer data-domain="clarknarvas.com" src="https://plausible.io/js/plausible.js"></script>
+
+
+<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
+<meta property="og:description" content="{{ page.description }}"/>
+<meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+<meta property="og:image" content="{% if page.featured-image %}https://clarknarvas.com{{ page.featured-image }}{% else %}https://clarknarvas.com/assets/brand/website.png{% endif %}"/>
+<meta property="og:image:width" content="1920"/>
+<meta property="og:image:height" content="1080"/>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@clarknarvas">
+<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{{ page.description }}">
+<meta name="twitter:image" content="{% if page.featured-image %}https://clarknarvas.com{{ page.featured-image }}{% else %}https://clarknarvas.com/assets/brand/website.png{% endif %}">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png">
+<link rel="manifest" href="/assets/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="assets/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+    <title>Clark Narvas 🤓</title>
+  </head>
+  <body>
+
+    <!----
+    <div id="left"></div>
+    <div id="right"></div>
+    <div id="top"></div>
+    <div id="bottom"></div>
+    -->
+
+    <nav class="navbar navbar-expand-lg navbar-light navbar-fixed" style="background-color:#e1e8fa;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/index.html">
+          <img src="/assets/brand/bluelogo.png" alt="Clark Narvas" width="auto" height="40" class="d-inline-block align-top noactiveeffect">
+        </a>
+        
+      </div>
+        <style>
+
+        body {
+            border: 0px;
+        }
+            .navbar-nav.navbar-center { 
+            position: absolute; 
+            left: 50%; 
+            transform: translatex(-50%); 
+        } 
+
+        @media only screen and (max-width: 900px)  {
+          .navbar-nav.navbar-center {
+            left: 0%;
+            position: relative;
+            transform: translatex(0%);
+          }
+      }
+        </style>
+        </div>
+
+        </div>
+    </nav>
