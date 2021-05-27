@@ -9,6 +9,6 @@ thumbnail: /assets/brand/website.png
 ---
 
 <center>
-Geno Veva
+Geno Veva<br>
 You will be missed.
 </center>
