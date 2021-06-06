@@ -1,8 +1,8 @@
 
 
 {% include header.html %}
-  <div class="thumbnail-image fill">
-      <img alt="{{page.thumbnail-alt}}" src="{{page.featured-image}}" style="width: 170%; height: auto;">
+  <div class="thumbnail-image" style="height: 80vh;background-image: url({{page.featured-image}});background-size: cover; background-position: center;background-repeat: no-repeat;">
+      
   </div>
 
 <div class="container" style="    padding-top: 25px;
@@ -55,7 +55,10 @@ only screen and (max-width: 900px)  {
 
  
 .thumbnail-image {
-  height: 35vh;
+  height: 50vh !important;
+  background-size: cover!important;
+  background-position:center !important;
+  background-repeat: no-repeat !important;
 }
 }
 </style>
