@@ -8,7 +8,7 @@ navigation_weight: 1
 {% include components/image.html url="https://media.giphy.com/media/3o6MbjR66zpTZktiUM/source.gif" alt="Lisa Simpson saying 'So many categories!'" %}
 Don't know where to start?
 
-Here's are some of my favourite posts on this blog. 👇🏼
+Here are some of my favourite posts on this blog. 👇🏼
 
 [Android without Google Play Services: The NoGoogle Experiment](https://clarknarvas.com/2020/01/19/android-without-google-play-services-the-no-google-experiment.html) - My experiences trying to create the most privacy-first Android phone.
 
