@@ -5,7 +5,7 @@
 layout: clarkhome
 title: An insight into the world of 🤓
 description: I'm a content creator that likes to create things 📸 - Explore my blog!
-home-tagline: Hi there, I’m Clark Narvas. I am a nerdy 15 year old creating wonderful and mad content about productivity, technology, studying and all things in between. 🌟
+home-tagline: Hi there, I’m Clark Narvas. I create a lot of things 🤓
 thumbnail: /assets/brand/website.png
 ---
 
