@@ -10,8 +10,9 @@
 
         </div>
 
-        <div class="homepage-top-bottom row" style="background-color:#3672ff;padding: 25px;">
-            <div class="col-md-6 align-middle" style="background-color: #3672ff;padding-bottom: 20px;">
+        <div class="homepage-top-bottom row" style=" background: rgb(142,176,255);
+background: radial-gradient(circle, rgba(142,176,255,1) 0%, rgba(54,114,255,1) 60%); ;padding: 25px;">
+            <div class="col-md-6 align-middle" style="padding-bottom: 20px;">
 
                 {% for post in site.posts limit: 1%}
                 <div class="homepage-top-text align-middle" style="display: inline-block;">
@@ -23,7 +24,7 @@
                 
             </div>
         
-            <div class="col-md-6 fill" style="max-height: 400px;background-color: #3672ff; border-radius: 25px;">
+            <div class="col-md-6 fill" style="max-height: 400px;border-radius: 25px;">
                 <img src="{{ post.featured-image }}" alt="{{post.thumbnail-alt}}" style="width: 140%; height: auto">
 
                 
