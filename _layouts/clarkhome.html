@@ -1,11 +1,27 @@
 {% include header.html %}
 
-
+            {% for post in site.posts limit: 1%}
 <div class="homepage-top">
     <div class="container-fluid">
         <div class="row">
+
+            <style>
+    .homebigbutton {
+        background-color: #3672ff;
+        color: white;
+        padding: 5px;
+        border-radius: 10px;
+    }
+
+    .homebigbutton:hover {
+        background-color: #2a59c5;
+        color: white;
+    }
+</style>
+
+
             <div  style="background-color: #d2dffc; padding: 20px;padding-top: 50px;padding-bottom: 50px;color: #3672ff;">
-                    <h2>{{ page.home-tagline }}</h2>
+                    <h2>👋🏼 Hey, I'm Clark and I create content about <a class="homebigbutton" href="{{post.url}}" >#{{ post.tags }}</a></h2>
             </div>
 
         </div>
@@ -14,7 +30,7 @@
 background: radial-gradient(circle, rgba(142,176,255,1) 0%, rgba(54,114,255,1) 60%); ;padding: 25px;">
             <div class="col-md-6 align-middle" style="padding-bottom: 20px;">
 
-                {% for post in site.posts limit: 1%}
+                
                 <div class="homepage-top-text align-middle" style="display: inline-block;">
                     <p style="color: white; padding-top: 10px;font-family: Lato;">🤓 THE LATEST</p>
                     <h2 style="color: white;">{{ post.title }}</h2>
@@ -54,3 +70,4 @@ background: radial-gradient(circle, rgba(142,176,255,1) 0%, rgba(54,114,255,1) 6
 {% include newsletterpromotion.html %}
 
 {% include footer.html %}
+
