@@ -13,7 +13,7 @@
 <div class="container-fluid">
     <div class="row justify-content-center">
 
-        {% for post in site.categories[page.title] %}
+        {% for post in site.tags[page.title] %}
             <div class="blog-card col-lg-3">
                 <div style="height: 200px;border-radius: 10px;" class="fill">
                     <img class="blog-thumbnail" alt="{{post.thumbnail-alt}}" src="{{ post.featured-image }}" style="width: 100%; height: auto;">
