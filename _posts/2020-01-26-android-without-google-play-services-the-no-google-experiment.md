@@ -4,7 +4,7 @@ title:  "Android without Google Play Services: The No Google Experiment"
 date:   2020-01-19 11:12:38 +0000
 featured-image: /assets/blogposts/TheNoGoogleExperiment/Thumbnail.png
 thumbnail-alt: Bunch of bordered phones. Centered phone has a broken Google logo
-tags: DeGoogling
+tags: Digital
 description: Do you want to have real privacy? NoGoogling is the way to go.
 ---
 

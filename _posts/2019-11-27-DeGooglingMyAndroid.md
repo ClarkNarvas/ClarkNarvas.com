@@ -4,7 +4,7 @@ title:  "DeGoogling My Android"
 date:   2019-11-17 11:12:38 +0000
 featured-image: /assets/blogposts/DeGooglingMyAndroid/Open-Source-Blog-Thumbnail-768x432.png
 thumbnail-alt: Phone with open source logos in the background
-tags: DeGoogling
+tags: Digital
 description: This is how I took back my privacy, and DeGoogled my phone.
 ---
 

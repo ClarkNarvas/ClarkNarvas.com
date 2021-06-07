@@ -4,7 +4,7 @@ title:  "How To Home-School Yourself During a Lockdown 🎓"
 date:   2020-04-05 11:12:38 +0000
 featured-image: /assets/oldsitearchive/uploads/2020/04/homeschooling-yourself-lockdown.png
 thumbnail-alt: A timeline
-tags: Productivity
+tags: Lockdown
 description: Let's make online schooling a little more bearable.
 ---
 

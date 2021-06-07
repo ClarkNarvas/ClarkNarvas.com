@@ -4,7 +4,7 @@ title:  "Welcome to my Blog"
 date:   2019-09-26 11:12:38 +0000
 featured-image: /assets/brand/generic.png
 thumbnail-alt: Clark smiling
-tags: StartHere
+tags: Thoughts
 description: This is the first post of my blog.
 ---
 

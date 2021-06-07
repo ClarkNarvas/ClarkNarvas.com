@@ -4,7 +4,7 @@ title:  "A Guide To Simplifying Your Digital Life"
 date:   2020-01-19 11:12:38 +0000
 featured-image: /assets/oldsitearchive/uploads/2020/01/minimalising-digital-life.png
 thumbnail-alt: Digital Footprint
-tags: DigitalWellbeing
+tags: Digital
 description: Simplify your life and declutter your digital space.
 ---
 

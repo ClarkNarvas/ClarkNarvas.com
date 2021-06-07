@@ -4,7 +4,7 @@
 
 layout: category
 title: Thoughts
-description: I'm a content creator that likes to create things 📸 - Explore my blog!
+description: Random thoughts that have been turned into blogs. 🧠
 thumbnail: /assets/brand/website.png
 ---
 
