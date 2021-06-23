@@ -70,3 +70,5 @@ And that’s how I use Todoist. ✅
 Again, I’ve tried many different to-do list apps. Out of all of them, Todoist is the best combination of features and great user experience. If you haven’t downloaded it, I’d recommend getting it [here](https://todoist.com/r/clark_narvas_yklnbb).
 
 Do you already use Todoist? Tell me how you use it in the (recently added) comments below!
+
+[Related: A Guide to Simplifying Your Digital Life](https://clarknarvas.com/2021/06/23/how-i-use-todoist-to-keep-myself-accountable.html)
