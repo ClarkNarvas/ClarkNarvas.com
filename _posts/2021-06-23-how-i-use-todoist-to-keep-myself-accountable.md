@@ -5,7 +5,7 @@ date:   2021-06-23 00:00:00 +0000
 featured-image: /assets/blogposts/how-i-use-todoist/todoist.png
 thumbnail-alt: Todoist window open
 tags: Digital
-description: Hello 2021! Here are my thoughts for the year ahead.
+description: I'm usually someone who switches between task managers. I'm settling on Todoist.
 ---
 _“What are you going to do today?”_
 
