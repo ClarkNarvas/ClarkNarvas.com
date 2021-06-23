@@ -9,11 +9,11 @@ description: Hello 2021! Here are my thoughts for the year ahead.
 ---
 _“What are you going to do today?”_
 
-Unlike many non-COVID Year 11’s before 2020, my year has got a 100 day summer break (excluding the days we have to come in for small courses) 
+If you know me very well, you’d know I like to switch between to-do list apps (you could call it procrastination, I like to call it user testing 😉). 
 
-It’s a lot of time! 
+I started with Microsoft To-Do, and then I had phases of Google Tasks, Notion, Trello and Habitica. A few months back I decided to settle with Todoist, mainly because of it’s simple user interface (keep it simple, stupid) and the great implementation of features 
 
-Throughout these 100 days, I want to start several good habits, try to end bad ones and keep myself generally sane and active. Here’s how I’ve been using [Todoist](https://todoist.com/r/clark_narvas_yklnbb) to keep myself accountable.
+Right now, I’m using it a lot to try to get better habits and achieve goals before I need to return to school and I thought it would be cool to share to you all how I’ve been using it. 👇
 
 {% include components/heading.html text="A few features I love" %}
 
