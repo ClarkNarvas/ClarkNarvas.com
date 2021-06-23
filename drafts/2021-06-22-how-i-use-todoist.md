@@ -13,7 +13,7 @@ If you know me very well, you’d know I like to switch between to-do list apps 
 
 I started with Microsoft To-Do, and then I had phases of Google Tasks, Notion, Trello and Habitica. A few months back I decided to settle with Todoist, mainly because of it’s simple user interface (keep it simple, stupid) and the great implementation of features 
 
-Right now, I’m using it a lot to try to get better habits and achieve goals before I need to return to school and I thought it would be cool to share to you all how I’ve been using it. 👇
+Right now, I’m using it day-to-day to try to get better habits and achieve goals before I need to return to school and I thought it would be cool to share to you all how I’ve been using it. 👇
 
 {% include components/heading.html text="A few features I love" %}
 
