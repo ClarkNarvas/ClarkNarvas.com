@@ -29,7 +29,7 @@ Right now, I’m using it day-to-day to try to get better habits and achieve goa
 
 ### How I use Inbox
 
-{% include components/image.html url="/assets/blogposts/how-i-use-todoist/Screenshot 2021-06-22 at 22.13.20.png" alt="My inbox with tasks in" description="Don't ask." %}
+{% include components/image.html url="/assets/blogposts/how-i-use-todoist/Screenshot 2021-06-22 at 22.13.20.png" alt="My inbox with tasks in" description="Please, don't ask." %}
 
 Inbox is where I put tasks specific to the day and don’t repeat. 
 
