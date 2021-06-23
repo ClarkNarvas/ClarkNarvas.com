@@ -67,6 +67,6 @@ In the sidebar, you can filter tasks by the label it’s assigned on. Students (
 
 And that’s how I use Todoist. ✅
 
-I’ve tried many different to-do list apps. Out of all of them, Todoist is the best combination of features and great user experience. If you haven’t downloaded it, I’d recommend getting it [here](https://todoist.com/r/clark_narvas_yklnbb).
+Again, I’ve tried many different to-do list apps. Out of all of them, Todoist is the best combination of features and great user experience. If you haven’t downloaded it, I’d recommend getting it [here](https://todoist.com/r/clark_narvas_yklnbb).
 
 Do you already use Todoist? Tell me how you use it in the (recently added) comments below!
