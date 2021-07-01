@@ -5,6 +5,6 @@
 layout: clarkhome
 title: Clark Narvas
 description: I'm a content creator that likes to create things 📸 - Explore my blog!
-thumbnail: /assets/brand/website.png
+featured-image: /assets/brand/website.png
 ---
 
