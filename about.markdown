@@ -1,5 +1,5 @@
 ---
-layout: specialised/about
+layout: clarkpage
 title: Me
 permalink: /me/
 navigation_weight: 2
