@@ -2,6 +2,7 @@
 layout: specialised/newsletter
 title: Join my newsletter
 image: /assets/brand/newsletter.png
+description: Join me on a weird and wonderful journey through my life.
 permalink: /newsletter
 ---
 
