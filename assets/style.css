@@ -70,6 +70,10 @@ p {
     font-family: 'Arvo';
 }
 
+strong {
+    font-weight: 700;
+}
+
 .container-writing {
     width: 700px;
     margin: auto;

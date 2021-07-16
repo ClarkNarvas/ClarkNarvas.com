@@ -1,44 +1,86 @@
 ---
-layout: clarkpage
+layout: clarkpagebanner
 title: Me
+nav-title: Me
 permalink: /me/
 navigation_weight: 2
-featured-image: /assets/oldsitearchive/uploads/2020/10/thing-1212.png
+featured-image: /assets/images/aboutpage/aboutclark.png
 ---
 
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/10/thing-1212.png" description="My sister sneakily getting in from Leeds"%}
+Hey there, I'm Clark. 
 
-{% include components/heading.html text="Hi, my name is Clark 👋" %}
-Hi there, I’m Clark Narvas. I am a nerdy 15 year old content creator creating wonderful and mad blogs/videos/podcasts about productivity, technology, studying and all things in between. 🌟
+First, I'll get personal stuff out of the way: my pronouns are he/him and I'm a 16-year-old from 🇬🇧🇵🇭; my dad is an architect, and my mum is a nurse; I have two sisters (who are both twins), Pauline, who writes a blog and is a DevRel, and Gemmalyn, an online author.
 
-I come from Sheffield, England and am a proud Filipino. My parents both migrated to the UK in the early 2000’s.
+I do many things! I can't really summarise it in a short and sweet tagline - but to elaborate:
 
-Family is very important to me. My dad is a architect and my mum is a nurse, while my sisters are both content creators. (@paw.lean 🐾)
+### The 'Nerditist'
 
-My hobbies and interests range from video editing to politics: I’ve filmed and created after-videos for several university Hackathons, created branding for my sister, attended a bunch of political events offline and online, and so much more!
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Always been a techie... <a href="https://twitter.com/hashtag/ThrowBack?src=hash&amp;ref_src=twsrc%5Etfw">#ThrowBack</a> <a href="https://twitter.com/hashtag/TB?src=hash&amp;ref_src=twsrc%5Etfw">#TB</a> <a href="https://twitter.com/hashtag/Tech?src=hash&amp;ref_src=twsrc%5Etfw">#Tech</a> <a href="https://t.co/QBpoj7uAAn">pic.twitter.com/QBpoj7uAAn</a></p>&mdash; CLARK NARVAS 🤓 (he/him) (@clarknarvas) <a href="https://twitter.com/clarknarvas/status/1076806941878484992?ref_src=twsrc%5Etfw">December 23, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 
-In my free time I like to work out, take walks and read – If you follow me on my Instagram, you’d be familiar with my regular walks and misadventures. I also like to read inspirational and uplifting books, At the moment I am currently reading ‘The Power Of Habit’ by Charles Duhigg.
+For a lot of my life, I was bullied for looking like the stereotypical Asian nerd. I coined the term 'nerditist' in Year 6 and ended up embracing it, because it's true! 
 
-My main goals this year is to ace my GCSE’s and fill up this blog to the brim, as well as become the true Clark Kent. 😜
+When I was little, in between shopping trips, my parents would bring me to my favourite store, the Apple Store. We'd come there regularly, and I became pretty fascinated with technology. Little me would find it magical, but actual, real magic. 
 
-{% include components/heading.html text="My Journey" %}
+Amid my curiosity, I created wanna-be operating systems on Microsoft PowerPoint, scattered with hyperlinks and fancy transitions. I'd eventually start coding in Visual Basic, HTML, CSS, Python and a little bit of Ruby. 
 
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/08/brand-evolution.png" alt="All the Clark Narvas logos" description="All the Clark Narvas logos" %}
+My appreciation for technology was never a little phase - it grew and blossomed! 
+
+In 2018, I started a daily tech podcast called [Tech Byte](https://youtu.be/3RYkyi5aSTQ), a 5-minute round-up of the day's tech news. This led me to research digital privacy, and [I eventually started writing about the implications of 'Big Tech'](https://clarknarvas.com/2020/01/19/android-without-google-play-services-the-no-google-experiment.html) collecting all of our data and how ordinary people can limit it.
 
 
-This all started in the winter breeze of early 2012. Using my dad’s old and depleted laptop on Windows Vista, hooked up to a mouse. I discovered a website called ‘ROBLOX’ after searching how to create my own game.
+### The 'eagle-eyed' creative
 
-I had a weird type of enthusiasm for television idents. I would watch them all day long and it developed my interest in brand identity and design as a whole. I never had any way of expressing my inner nerd until I stumbled across a community called ‘ROBLOX TV’.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m going to start freelancing this summer! <br><br>I can: <br>📸 Create content that you can use in posts.<br><br>📹 Create professional motion graphics that will stay on-brand.<br><br>🤓 Build landing pages to get your brand not just noticed but recognised. <br><br>Interested? 👉✉️ clark@narvas.co.uk <a href="https://t.co/9vtzzMV3Pc">pic.twitter.com/9vtzzMV3Pc</a></p>&mdash; CLARK NARVAS 🤓 (he/him) (@clarknarvas) <a href="https://twitter.com/clarknarvas/status/1399302381855195138?ref_src=twsrc%5Etfw">May 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 
-The community was full of people who were interested in the same stuff I liked, and also created entire television style live stream channels full of ROBLOX TV shows. 8 year old me was screaming internally “This is the place I want to be!”.
+I created an obsession with brand identity that stemmed from TV idents when I was younger. I'd watch them quite often to the point my YouTube history was full of them. In a way, they were 'eye candy' to me, satisfying motion, animations and really catchy soundtracks. 
 
-For the next six years afterwards, I learned a lot about video editing and content creation and created many friends (as well as embarrassing myself in the process, one of my real friends joined my news shows 😭)
-Into the real world 🌍
+Eventually, when I was 9, I joined a niche [ROBLOX](https://en.wikipedia.org/wiki/Roblox) community called ROBLOX TV. I learned how to edit, not just idents, but videos, develop some of my team working skills by helping other people, and built small online communities under a brand that would be loved and hated by users. 
 
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/10/17991559_1939824386235523_8117407270182755124_o.jpg" alt="Me at HackSheffield 3 in 2017" description="Me at HackSheffield 3 in 2017" %}
+Since then, I've created videos, graphics and strong brands for [hackathons](https://youtu.be/WR_PAc_Q_Vc), [political campaigns](https://twitter.com/caramcdade_/status/1368964729155293195?s=20), [organisations](https://twitter.com/NexusLabour/status/1411342958515953665?s=20) and [people](https://pawlean.com/2021/06/21/building-the-pawlean-brand-with-clark-narvas). 
 
-In 2018, my sisters boyfriend randomly gifted me a microphone. It would change the way I did production and it allowed for more possibilities (thanks matt!). Around then I started recording a podcast called ‘Tech Byte’, a daily podcast that would round up all of the latest tech news in under 5 minutes. Many episodes are missing however you can listen to the archive here
 
-At the start of 2019, I started uploading onto my YouTube channel. ‘A Nerd Gets Taught Fortnite w/ Fortnite Noob’ was my first video.
 
-This blog was created on the 26th of September 2019 to be a “portal to my nerdy but unpredictable mind.” Since then I have talked about how I completely DeGoogled my life, helped you all with studying and organization over lock down and ate a banana for YouTube.
+### The content creator
+
+<iframe src="https://open.spotify.com/embed/episode/0ZqHn8U2YPdFMTbs0APsVW" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+I've always wanted to be everything: the presenter, the video editor, the producer, the person who creates the set, the person who comes up with the ideas and the social media manager. _Lights, camera, action!_
+
+After becoming jealous of my [sister's YouTube channel](https://www.youtube.com/user/Pablobobchann), I begged my sister and parents to 'give me a yoUtuBe ChanNel!!' (it looked cool!) 10 minutes of tears and screaming passed, and I was one click away from becoming the next Ryan Higa, Brian Tong or PewDiePie. 
+
+If you really want to see my old channel, then below there's a video of me reacting to it. I learnt the basics of video editing and channel management by uploading these hyperactive and weird videos. My parents would never let me show my face, so the ones where I did, I had to cover up my face with some sunglasses and a gangster cap. 😎 
+<br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/78NnkaqPXu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+I had a blog before with a lot of my former goofy antics, but this one was founded in mid-2019. I wanted to experiment with a familiar but new format. This was before I knew a massive pandemic would happen, so when it did start, [I updated my blog with tips on what to do in the pandemic and how I studied.](https://clarknarvas.com/tags/lockdown)
+
+
+### The 'politics guy.'
+
+_People who sit near me in class while I'm sitting next to one of my politically literate friends would hear many fancy words like 'socialism', 'taxes' and 'parliament'. If you're one of those people, I'm sorry, we can't help it!_
+
+I'm not one to indulge in political literature or swear to god by my political ideology, but I'm semi-active in politics. Many of my views came from my parents moving to the UK in 2000; [the Labour government](https://labour.org.uk/about/labours-legacy/) gave my family opportunities they would have never got in any other country. 
+
+Part of my motivation politically is the thought of a migrant family moving into the UK, settling into a new community, meeting new people and building a new life. I joined the Labour party at the end of 2019 amid a Tory government-backed by far-right activists like Tommy Robinson. I started getting involved in internal political campaigns (Tommy Kirkwood for Youth Rep, Cara McDade for Under 19's Officer), Labour Nexus - a campaign to stop Labour infighting and my local party.
+
+**My beliefs are scattered all over the place, but here are a few of my key ones that will probably never change:** The government should provide good living conditions through excellent public services and distribution of wealth. I also believe that we need to stop the manipulation of workers and the environment by big corporations. 
+
+The real wealth and richness of a country do not rest in GDP or the stock market; it rests in the happiness and wellbeing of everyone who lives there, not a particular race or class, everyone. **In summary: My political views are simply 'good things for good people'**
+
+### The seeker
+
+I'm on a journey to seek the best version of myself by swearing on spiritual teachings, waking up at 5am and finding my happy, zen place in the middle of a metaphorical empty field (but really, I'm just trying to improve the way I live, work and feel.)
+
+Starting habits such as meditation and exercising at least once every day has helped me go forward in that path and make me feel much more energetic and calm. As I'm writing this, I'm intending to start regular journaling and minimalism so I can let go of mental and physical baggage. 
+
+
+{% include components/line.html %}
+
+TLDR: I'm an nerdy, introverted, creative, political enthusiast content creator who is trying to get onto the highest level in the game of life. 
+
+
+___Related pages/posts:___
+
+[Friends of Clark Narvas - Websites and people that deserve your views and clicks](/friendsofclarknarvas)
+
+[Follow me on Social Media](https://linktr.ee/clarknarvas)
