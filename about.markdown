@@ -61,7 +61,7 @@ _People who sit near me in class while I'm sitting next to one of my politically
 
 I'm not one to indulge in political literature or swear to god by my political ideology, but I'm semi-active in politics. Many of my views came from my parents moving to the UK in 2000; [the Labour government](https://labour.org.uk/about/labours-legacy/) gave my family opportunities they would have never got in any other country. 
 
-Part of my motivation politically is the thought of a migrant family moving into the UK, settling into a new community, meeting new people and building a new life. I joined the Labour party at the end of 2019 amid a Tory government-backed by far-right activists like Tommy Robinson. I started getting involved in internal political campaigns (Tommy Kirkwood for Youth Rep, Cara McDade for Under 19's Officer), Labour Nexus - a campaign to stop Labour infighting and my local party.
+Part of my motivation politically is the thought of a migrant family moving into the UK, settling into a new community, meeting new people and building a new life. I joined the Labour party at the end of 2019 amid a Tory government-backed by far-right activists like Tommy Robinson. I started getting involved in campaigns such as Tommy Kirkwood for Labour NEC Youth Rep, Cara McDade for Under 19's Officer, Labour Nexus - a campaign to stop Labour infighting and my local party.
 
 **My beliefs are scattered all over the place, but here are a few of my key ones that will probably never change:** The government should provide good living conditions through excellent public services and distribution of wealth. I also believe that we need to stop the manipulation of workers and the environment by big corporations. 
 
