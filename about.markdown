@@ -9,19 +9,19 @@ featured-image: /assets/images/aboutpage/aboutclark.png
 
 Hey there, I'm Clark. 
 
-First, I'll get personal stuff out of the way: my pronouns are he/him and I'm a 16-year-old from 🇬🇧🇵🇭; my dad is an architect, and my mum is a nurse; I have two sisters (who are both twins), Pauline, who writes a blog and is a DevRel, and Gemmalyn, an online author.
+First, I'll get personal stuff out of the way: my pronouns are he/him and I'm a 16-year-old from 🇬🇧🇵🇭; my dad is an architect, and my mum is a nurse; I have two sisters (who are both twins), [Pauline](https://pawlean.com), who writes a content creator and works in [Developer Relations](https://pawlean.com/2021/07/02/as-of-today-im-building-communities-full-time.), and Gemmalyn, an online author.
 
 I do many things! I can't really summarise it in a short and sweet tagline - but to elaborate:
 
-### The 'Nerditist'
+### The "Nerditist"
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Always been a techie... <a href="https://twitter.com/hashtag/ThrowBack?src=hash&amp;ref_src=twsrc%5Etfw">#ThrowBack</a> <a href="https://twitter.com/hashtag/TB?src=hash&amp;ref_src=twsrc%5Etfw">#TB</a> <a href="https://twitter.com/hashtag/Tech?src=hash&amp;ref_src=twsrc%5Etfw">#Tech</a> <a href="https://t.co/QBpoj7uAAn">pic.twitter.com/QBpoj7uAAn</a></p>&mdash; CLARK NARVAS 🤓 (he/him) (@clarknarvas) <a href="https://twitter.com/clarknarvas/status/1076806941878484992?ref_src=twsrc%5Etfw">December 23, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 
-For a lot of my life, I was bullied for looking like the stereotypical Asian nerd. I coined the term 'nerditist' in Year 6 and ended up embracing it, because it's true! 
+For a lot of my life, I was bullied for looking like the stereotypical Asian nerd. I coined the term "nerditist" in Year 6 and ended up embracing my nerd identity, because it's true! 
 
-When I was little, in between shopping trips, my parents would bring me to my favourite store, the Apple Store. We'd come there regularly, and I became pretty fascinated with technology. Little me would find it magical, but actual, real magic. 
+When I was little, in between shopping trips, my parents would bring me to my favourite store, the Apple Store. We'd go there regularly, and I became pretty fascinated with technology. Little me saw it like magic, it's magic I still feel today. 
 
-Amid my curiosity, I created wanna-be operating systems on Microsoft PowerPoint, scattered with hyperlinks and fancy transitions. I'd eventually start coding in Visual Basic, HTML, CSS, Python and a little bit of Ruby. 
+Amid my curiosity, I created wannabe operating systems on Microsoft PowerPoint, scattered with hyperlinks and fancy transitions. I'd eventually start coding in Visual Basic, HTML, CSS, Python and a little bit of Ruby. 
 
 My appreciation for technology was never a little phase - it grew and blossomed! 
 
@@ -32,7 +32,7 @@ In 2018, I started a daily tech podcast called [Tech Byte](https://youtu.be/3RYk
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m going to start freelancing this summer! <br><br>I can: <br>📸 Create content that you can use in posts.<br><br>📹 Create professional motion graphics that will stay on-brand.<br><br>🤓 Build landing pages to get your brand not just noticed but recognised. <br><br>Interested? 👉✉️ clark@narvas.co.uk <a href="https://t.co/9vtzzMV3Pc">pic.twitter.com/9vtzzMV3Pc</a></p>&mdash; CLARK NARVAS 🤓 (he/him) (@clarknarvas) <a href="https://twitter.com/clarknarvas/status/1399302381855195138?ref_src=twsrc%5Etfw">May 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 
-I created an obsession with brand identity that stemmed from TV idents when I was younger. I'd watch them quite often to the point my YouTube history was full of them. In a way, they were 'eye candy' to me, satisfying motion, animations and really catchy soundtracks. 
+I had a very unusual obsession with TV idents when I was younger. I'd watch them quite often to the point my YouTube history was full of them. In a way, they were 'eye candy' to me, satisfying motion, animations and really catchy soundtracks. This turned into a wider obsession over brand identity, and it's an obsession I still carry to this day! 
 
 Eventually, when I was 9, I joined a niche [ROBLOX](https://en.wikipedia.org/wiki/Roblox) community called ROBLOX TV. I learned how to edit, not just idents, but videos, develop some of my team working skills by helping other people, and built small online communities under a brand that would be loved and hated by users. 
 
@@ -52,7 +52,7 @@ If you really want to see my old channel, then below there's a video of me react
 <br>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/78NnkaqPXu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-I had a blog before with a lot of my former goofy antics, but this one was founded in mid-2019. I wanted to experiment with a familiar but new format. This was before I knew a massive pandemic would happen, so when it did start, [I updated my blog with tips on what to do in the pandemic and how I studied.](https://clarknarvas.com/tags/lockdown)
+I had a blog before with a lot of my former goofy antics, but this one was founded in mid-2019. I wanted to experiment with a familiar but new format. This was before I knew a pandemic would happen, so when it did start, [I updated my blog with tips on what to do in the pandemic and how I studied.](https://clarknarvas.com/tags/lockdown)
 
 
 ### The 'politics guy.'
@@ -63,7 +63,7 @@ I'm not one to indulge in political literature or swear to god by my political i
 
 Part of my motivation politically is the thought of a migrant family moving into the UK, settling into a new community, meeting new people and building a new life. I joined the Labour party at the end of 2019 amid a Tory government-backed by far-right activists like Tommy Robinson. I started getting involved in campaigns such as Tommy Kirkwood for Labour NEC Youth Rep, Cara McDade for Under 19's Officer, Labour Nexus - a campaign to stop Labour infighting and my local party.
 
-**My beliefs are scattered all over the place, but here are a few of my key ones that will probably never change:** The government should provide good living conditions through excellent public services and distribution of wealth. I also believe that we need to stop the manipulation of workers and the environment by big corporations. 
+**My beliefs are scattered all over the place, but there are key beliefs that will probably never change:** The government should provide good living conditions through excellent public services and distribution of wealth. I also believe that we need to stop the manipulation of workers and the environment by big corporations. 
 
 The real wealth and richness of a country do not rest in GDP or the stock market; it rests in the happiness and wellbeing of everyone who lives there, not a particular race or class, everyone. **In summary: My political views are simply 'good things for good people'**
 
