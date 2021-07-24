@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: clarknarvas.com
+Token: e28a1ab5a33ecf2a1c8b60a62e710ef0cbe8d64f1deb378211678efb623e64fa
