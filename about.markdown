@@ -9,7 +9,7 @@ featured-image: /assets/images/aboutpage/aboutclark.png
 
 Hey there, I'm Clark. 
 
-First, I'll get personal stuff out of the way: my pronouns are he/him and I'm a 16-year-old from 🇬🇧🇵🇭; my dad is an architect, and my mum is a nurse; I have two sisters (who are both twins), [Pauline](https://pawlean.com), who writes a content creator and works in [Developer Relations](https://pawlean.com/2021/07/02/as-of-today-im-building-communities-full-time.), and Gemmalyn, an online author.
+First, I'll get personal stuff out of the way: my pronouns are he/him and I'm a 16-year-old from 🇬🇧🇵🇭; my dad is an architect, and my mum is a nurse; I have two sisters (who are both twins), Pauline, and Gemmalyn.
 
 I do many things! I can't really summarise it in a short and sweet tagline - but to elaborate:
 
