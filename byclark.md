@@ -3,7 +3,7 @@ layout: clarkpage
 title:  "By Clark"
 featured-image: /assets/brand/generic.png
 thumbnail-alt: Clark smiling
-navigation_weight: 3
+navigation_weight: 0
 ---
 
 A bunch of projects I've made in my freetime, check them out! 
