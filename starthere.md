@@ -1,8 +1,9 @@
 ---
-layout: clarkpage
+layout: clarkpagebanner
 title: Start Here
 permalink: /starthere/
 navigation_weight: 1
+featured-image: /assets/images/starthere/starthere.png
 ---
 
 {% include components/image.html url="https://media.giphy.com/media/3o6MbjR66zpTZktiUM/source.gif" alt="Lisa Simpson saying 'So many categories!'" %}
