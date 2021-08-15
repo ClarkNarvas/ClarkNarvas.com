@@ -1,3 +1,8 @@
 tasks:
   - name: Install dependencies
     init: bundle install
+
+ports:
+  - port: 4000
+    onOpen: open-browser
+    visibility: private
