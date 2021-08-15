@@ -1,2 +1,3 @@
 tasks:
-  - init: bundle install
+  - name: Install dependencies
+    init: bundle install
