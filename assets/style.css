@@ -1,63 +1,25 @@
+/** Fonts **/
+@font-face {
+    font-family: ParagraphFont;
+    src: url(/assets/brand/fonts/Metropolis-Medium.woff);
+  }
 
+  @font-face {
+    font-family: HeadingFont;
+    src: url(/assets/brand/fonts/Metropolis-ExtraBold.woff);
+  }
 
-/* start of border body stuff*/
-#top, #bottom, #left, #right {
-	background: #467cff;
-	position: fixed;
-	}
-	#left, #right {
-		top: 0; bottom: 0;
-		width: 20px;
-    z-index: 10000;
-    animation-name: border-top;
-    animation-duration: 1s ease;
-		}
-		#left { left: 0; }
-		#right { right: 0; }
-
-	#top, #bottom {
-		left: 0; right: 0;
-		height: 20px;
-    z-index: 10000;
-		}
-		#top { top: 0; }
-		#bottom { bottom: 0; }
-
-        @media
-
-    /* Fairly small screens including iphones */
-
-
-    only screen and (max-width: 900px)  {
-    	#top, #bottom { height: 10px;}
-
-     #left, #right { width: 10px; }
-
-
-     
-    .container-writing {
-        width: auto !important;
-        margin: 0;
-    }
-
-    .page-details-2 {
-        display: none;
-    }
-
-    .page-details .page-date {
-        display: block !important;
-    }
-
-    
-
-    }
+  @font-face {
+    font-family: BlackFont;
+    src: url(/assets/brand/fonts/Metropolis-Black.woff);
+  }
 
 
 body {
-    font-family: Lato, Arial;
-    scrollbar-base-color: #467cff;
-    font-size: 110%;
-    border: 15px solid #467cff;;
+    font-family: ParagraphFont, Arial;
+    scrollbar-base-color: #2768FF;
+    font-size: 105%;
+    border: 10px solid #2768FF;
     min-height: 100vh;
 }
 
@@ -67,7 +29,7 @@ body {
 
 
 p {
-    font-family: 'Arvo';
+    font-family: 'ParagraphFont';
 }
 
 strong {
@@ -94,16 +56,13 @@ strong {
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: Lato;
-    font-weight: 900;
+    font-family: HeadingFont;
     padding: 0;
     margin: 0;
 }
 
 
-a.categoryicon:hover {
-    color: white;
-}
+
 
 a {
     text-decoration: underline dotted 1px;
@@ -129,12 +88,11 @@ a.noactiveeffect:active {
 }
 
 .categoryicon {
-    background-color: #467cff;
-    padding: 7px;
-    color: white;
-    border-radius: 15px;
-    margin-top: 10px;
+    font-family: ParagraphFont;
+    margin-top: 15px;
     display: inline-block;
+    text-transform: uppercase;
+    color: #2768FF;
 }
 
 
@@ -153,7 +111,7 @@ a.noactiveeffect:active {
 
 .anworldof {
     font-size: 80% !important;
-    font-family: Arvo;
+    font-family: ParagraphFont;
     font-style: italic;
     font-weight: normal;
 }
@@ -162,3 +120,16 @@ a.noactiveeffect:active {
     color: #467cff;
 }
 
+.btn, .btn-lg {
+    border-radius: 200px !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #2768FF;
+    font-family: BlackFont;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.highlight {
+    background-image: linear-gradient(to bottom, transparent 50%, #A7BCFF 50%);
+}

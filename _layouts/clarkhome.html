@@ -1,64 +1,27 @@
 {% include header.html %}
 
-            {% for post in site.posts limit: 1%}
-<div class="homepage-top">
-    <div class="container-fluid">
-        <div class="row">
 
-            <style>
-    .homebigbutton {
-        background-color: #3672ff;
-        color: white;
-        padding: 5px;
-        border-radius: 10px;
-        line-height: 1.8 !important;
-    }
-
-    .homebigbutton:hover {
-        background-color: #2a59c5;
-        color: white;
-    }
-</style>
-
-
-            <div  style="background-color: #d2dffc; padding: 20px;padding-top: 50px;padding-bottom: 50px;color: #3672ff;">
-                    <h2>👋🏼 Hey, I'm Clark and I create content about <a class="homebigbutton" href="{{post.url}}" >#{{ post.tags }}</a></h2>
+<div class="top-page-home container-fluid" style="background-color: #F5F8FF;min-height: 60vh;border-bottom: #A7BCFF solid 2px;">
+    <div class="row">
+        <div class="col-lg-6" style="padding: 50px;height: 60vh;display: flex;">
+            <div class="top-page-home-content" style="margin: auto;">
+                <span class="header-text highlight" style="font-size: 300%;display: inline;font-family: HeadingFont;">Hey there, I’m Clark! 🤓</span><br>
+                <span class="header-description" style="font-size: 120%;">I cannot summarise myself in a short, catchy tagline, but I’m simply a creative, nerdy 16-year-old content creator.</span>
+<br><br>
+                <span class="bold">"So, where should I start? 🤔" <a href="/starthere">Start Here</a></span>
             </div>
+        </div>
+        <div class="col-lg-6" style="min-height: 60vh;border-radius: 20px 0px 0px 20px;border: #A7BCFF solid 2px;
+        background-image: url(/assets/pages/friendsofclarknarvas/me.png);background-size: cover; display: flex;">
 
         </div>
-
-        <div class="homepage-top-bottom row" style=" background: rgb(142,176,255);
-background: radial-gradient(circle, rgba(142,176,255,1) 0%, rgba(54,114,255,1) 60%); ;padding: 25px;">
-            <div class="col-md-6 align-middle" style="padding-bottom: 20px;">
-
-                
-                <div class="homepage-top-text align-middle" style="display: inline-block;">
-                    <p style="color: white; padding-top: 10px;font-family: Lato;">🤓 THE LATEST</p>
-                    <h2 style="color: white;">{{ post.title }}</h2>
-                    <p style="color: white;padding-top: 10px;">{{ post.content | strip_html | truncatewords: 40 }}</p>
-                    <a class="btn btn-light" href="{{ post.url }}" role="button">Read More 🧾</a>
-                 </div>
-                
-            </div>
-        
-            <div class="col-md-6 fill" style="max-height: 400px;border-radius: 25px;">
-                <img src="{{ post.featured-image }}" alt="{{post.thumbnail-alt}}" style="width: 140%; height: auto">
-
-                
-        
-            </div>
-            {% endfor %}
-        </div>
-
-
-
-
+    </div>
 </div>
 <div class="container">
-
+<h2>The Blog</h2>
     <div class="row justify-content-center">
 
-        {% for post in site.posts limit:6 %}
+        {% for post in site.posts limit:3 %}
             {% include components/blogcard.html %}
 
         {% endfor %}
