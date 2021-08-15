@@ -1,11 +1,11 @@
-<div class="blog-card col-lg-4">
+<div class="blog-card p-2 col-lg-4">
     <div style="height: 250px;border-radius: 10px;background-color: #bfd0ff;" class="fill">
         <img class="blog-thumbnail" alt="{{post.thumbnail-alt}}" loading="lazy" src="{{ post.featured-image }}" style="width: auto; height: 120%;">
     </div>
 
-    <span class="categoryicon">{{ post.tags }}</span>
-    <a href="{{post.url}}"><h2 style="margin-bottom: 5px;margin-top: 10px;">{{post.title}}</h2></a>
-    <p style="font-size: 90% !important;">{{ post.content | strip_html | truncatewords: 15 }}</p>
+    <span class="categoryicon" style="display: inline-block;padding-bottom: 5px;">{{ post.tags }}</span><br>
+    <a href="{{post.url}}" style="font-family: HeadingFont; font-size: 140%;display: inline;">{{post.title}}</a>
+    <p style="font-size: 90% !important;margin-top: 5px;">{{ post.content | strip_html | truncatewords: 15 }}</p>
 
     <span class="page-date">{{ post.date | date: '%B %d, %Y' }}</span>
 </div>
@@ -15,17 +15,19 @@
 .blog-card {
     min-height: 450px;
     min-width: 380px;
-    padding: 30px;
     padding-bottom: 15px;
 }
 
 .blog-card a {
     color: black; 
     text-decoration: none;
+    line-height: 1.8ch;
 }
 
-.blog-card:hover h2{
-        color: #2768FF;
+.blog-card:hover a{
+
+    background-image: linear-gradient(to bottom, transparent 50%, #A7BCFF 50%);
+
     }
 
 

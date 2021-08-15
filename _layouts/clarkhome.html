@@ -4,7 +4,7 @@
 <div class="top-page-home container-fluid" style="background-color: #F5F8FF;min-height: 60vh;border-bottom: #A7BCFF solid 2px;">
     <div class="row">
         <div class="col-lg-6" style="padding: 50px;height: 60vh;display: flex;">
-            <div class="top-page-home-content" style="margin: auto;">
+            <div class="top-page-home-content" style="margin: auto;max-width: 1200px;">
                 <span class="header-text highlight" style="font-size: 300%;display: inline;font-family: HeadingFont;">Hey there, I’m Clark! 🤓</span><br>
                 <span class="header-description" style="font-size: 120%;">I cannot summarise myself in a short, catchy tagline, but I’m simply a creative, nerdy 16-year-old content creator.</span>
 <br><br>
@@ -17,20 +17,22 @@
         </div>
     </div>
 </div>
-<div class="container">
+<div class="container createpaddingonmobile">
     <br><br>
 <h2>Across the internet 🌍</h2>
-<p style="margin-top: 5px;">I’m all around the internet, creating and building weird and wonderful things.<br><br>
-    Check out my...</p>
-    <div class="row justify-content-center">
-        <div class="col-lg-4">
+<p style="margin-top: 5px;">I’m all around the internet, creating and building weird and wonderful things.<br><br></p>
+    <div class="row justify-content-center" style="">
+        {% include components/blue-emoji-card.html emoji="📖" title="wanna read?" description="Check out my written thoughts, opinions and tips!" url="/allblogs" button="Read" %}
+        {% include components/blue-emoji-card.html emoji="🎥" title="wanna watch?" description="Here’s a bunch of videos I’ve made in my freetime" url="https://www.youtube.com/channel/UCu197cd4WVhhCUKD1yk0PPQ" button="Watch" %}
+        {% include components/blue-emoji-card.html emoji="🛣" title="start from here" description="Don’t know where to start? <br>Start here." url="/starthere" button="Go" %}
 
-        </div>
+        
+
     </div>
 <div class="line">
 
 </div>
-<h2>The Blog</h2>
+<h2 style="padding-bottom: 20px;">The Blog</h2>
     <div class="row justify-content-center">
 
         {% for post in site.posts limit:3 %}
