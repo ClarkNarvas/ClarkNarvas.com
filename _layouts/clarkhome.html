@@ -1,22 +1,7 @@
 {% include header.html %}
 
 
-<div class="top-page-home container-fluid" style="background-color: #F5F8FF;min-height: 60vh;border-bottom: #A7BCFF solid 2px;">
-    <div class="row">
-        <div class="col-lg-6" style="padding: 50px;height: 60vh;display: flex;">
-            <div class="top-page-home-content" style="margin: auto;max-width: 1200px;">
-                <span class="header-text highlight" style="font-size: 300%;display: inline;font-family: HeadingFont;">Hey there, I’m Clark! 🤓</span><br>
-                <span class="header-description" style="font-size: 120%;">I cannot summarise myself in a short, catchy tagline, but I’m simply a creative, nerdy 16-year-old content creator.</span>
-<br><br>
-                <span class="bold">"So, where should I start? 🤔" <a href="/starthere">Start Here</a></span>
-            </div>
-        </div>
-        <div class="col-lg-6" style="min-height: 60vh;border-radius: 20px 0px 0px 20px;border: #A7BCFF solid 2px;
-        background-image: url(/assets/pages/friendsofclarknarvas/me.png);background-size: cover; display: flex;">
-
-        </div>
-    </div>
-</div>
+{% include specialised/top-page-home.html %}
 <div class="container createpaddingonmobile">
     <br><br>
 <h2>Across the internet 🌍</h2>
@@ -33,7 +18,7 @@
 
 </div>
 <h2 style="padding-bottom: 20px;">The Blog</h2>
-    <div class="row justify-content-center">
+    <div class="row justify-content-center" style="">
 
         {% for post in site.posts limit:3 %}
             {% include components/blogcard.html %}
