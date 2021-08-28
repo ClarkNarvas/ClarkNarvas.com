@@ -38,8 +38,17 @@ strong {
 }
 
 .container-writing {
-    width: 700px;
+    max-width: 700px;
     margin: auto;
+}
+
+@media (max-width: 800px) {
+
+.container-writing {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: auto;
+}
 }
 
 .page-title-box {

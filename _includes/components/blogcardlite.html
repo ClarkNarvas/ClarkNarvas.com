@@ -4,7 +4,7 @@
     <a href="{{post.url}}" style="font-family: HeadingFont; font-size: 140%;display: inline;">{{post.title}}</a>
     <p style="font-size: 90% !important;margin-top: 5px;">{{ post.content | strip_html | truncatewords: 45 }}</p>
 
-    <span class="page-date">{{ post.date | date: '%B %d, %Y' }}</span>
+    <span class="page-date" style="display: block;">{{ post.date | date: '%B %d, %Y' }}</span>
 </div>
 
 <style>
@@ -12,6 +12,7 @@
 .blog-card {
     padding-bottom: 25px;
     border-bottom: 2px solid #A7BCFF;
+    width: auto;
 }
 
 .blog-card a {
@@ -41,9 +42,8 @@ only screen and (max-width: 900px)  {
         padding-bottom: 20px;
         margin: 0;
         font-size: 100%;
-        min-height: 300px;
+        width: auto;
         height: auto;
-        transform: scale(0.93);
 
     }
 

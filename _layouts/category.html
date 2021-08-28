@@ -3,7 +3,7 @@
 {% include header.html %}
 
 
-<div class="homepage-top" style="background-color: #F5F8FF;border-bottom: solid 2px #A7BCFF;">
+<div class="homepage-top" style="background-color: #F5F8FF;border-bottom: solid 2px #A7BCFF;height: auto;">
     <div class="container-writing">
         <div class="row">
             <div  style="padding-top: 20px;padding-bottom: 20px;">
@@ -17,7 +17,7 @@
 </div>
 </div>
 <div class="container-writing">
-    <div class="row justify-content-center">
+    <div class="row justify-content-center" style="margin-bottom: 25px;">
 
         {% for post in site.tags[page.title] %}
             {% include components/blogcardlite.html %}
@@ -28,6 +28,8 @@
 
 </div>
 </div>
+
+
 {% include newsletterpromotion.html %}
 
 {% include footer.html %}
