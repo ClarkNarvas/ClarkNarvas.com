@@ -1,20 +1,26 @@
+
+
 {% include header.html %}
 
 
-<div class="homepage-top">
-    <div class="container-fluid">
+<div class="homepage-top" style="background-color: #F5F8FF;border-bottom: solid 2px #A7BCFF;">
+    <div class="container-writing">
         <div class="row">
-            <div  style="background-color: #d2dffc; padding: 20px;padding-top: 20px;padding-bottom: 20px;color: #3672ff;">
+            <div  style="padding-top: 20px;padding-bottom: 20px;">
                     <h2>{{ page.title }}</h2>
                     <p>{{ page.description }}</p>
+
+                    {{ content }}
             </div>
 
 </div>
-<div class="container-fluid">
+</div>
+</div>
+<div class="container-writing">
     <div class="row justify-content-center">
 
         {% for post in site.tags[page.title] %}
-            {% include components/blogcard.html %}
+            {% include components/blogcardlite.html %}
         {% endfor %}
     </div>
     

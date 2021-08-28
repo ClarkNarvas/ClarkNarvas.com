@@ -1,6 +1,6 @@
 ---
 layout: clarkendlesspost
-title: All Blogs
+title: Blog
 description: All blogs from clarknarvas.com
 permalink: /allblogs/
 ---
