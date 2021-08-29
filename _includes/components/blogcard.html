@@ -3,7 +3,7 @@
         <img class="blog-thumbnail" alt="{{post.thumbnail-alt}}" loading="lazy" src="{{ post.featured-image }}" style="width: auto; height: 120%;">
     </div>
 
-    <span class="categoryicon" style="display: inline-block;padding-bottom: 5px;">{{ post.tags }}</span><br>
+    <span class="categoryicon" style="display: inline-block;padding-bottom: 5px;margin-top: 20px;">{{ post.tags }}</span><br>
     <a href="{{post.url}}" style="font-family: HeadingFont; font-size: 140%;display: inline;">{{post.title}}</a>
     <p style="font-size: 90% !important;margin-top: 5px;">{{ post.content | strip_html | truncatewords: 15 }}</p>
 

@@ -10,6 +10,11 @@
   }
 
   @font-face {
+    font-family: BoldFont;
+    src: url(/assets/brand/fonts/Metropolis-Bold.woff);
+  }
+
+  @font-face {
     font-family: BlackFont;
     src: url(/assets/brand/fonts/Metropolis-Black.woff);
   }
@@ -33,6 +38,9 @@ p {
     font-family: 'ParagraphFont';
 }
 
+b {
+    font-family: 'BoldFont';
+}
 strong {
     font-weight: 700;
 }
@@ -99,7 +107,6 @@ a.noactiveeffect:active {
 
 .categoryicon {
     font-family: ParagraphFont;
-    margin-top: 15px;
     display: inline-block;
     text-transform: uppercase;
     color: #2768FF;
