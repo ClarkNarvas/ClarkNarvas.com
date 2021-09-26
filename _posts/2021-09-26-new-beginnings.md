@@ -22,7 +22,7 @@ I'm taking a big mix of subjects for A-Levels: Computer Science, Media Studies a
 
 Media Studies is a little different than I thought it would be - I thought there would be more emphasis on the production side of media, but it's mostly just analysing and understanding the industry. Don't get me wrong, I'm pretty interested in that as well! (If you're from my Media class and you're reading this, hey! 👋🏼 🥳)
 
-This is a bit weird, but I find Politics, dare I say it, therapeutic for some reason. I probably seem like some kind of crazy person saying that breaking down policies and theories is therapeutic, but there's just this kind of vibe to it?
+This is a bit weird, but I find Politics therapeutic for some reason. I probably seem like some kind of crazy person saying that breaking down policies and theories is therapeutic, but there's just this kind of vibe to it?
 
 ### "Learn as you go along." ➡️
 
