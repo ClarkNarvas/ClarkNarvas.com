@@ -20,7 +20,7 @@ I'm taking a big mix of subjects for A-Levels: Computer Science, Media Studies a
 
 2 of my classes this year are ones I've never chosen at GCSE; Computer Science is the only one I'm pretty familiar with (and the only class I haven't experienced because, for some reason, they delayed it by a week)
 
-Media Studies is a little different than I thought it would be - I thought there would be more emphasis on the production side of media, but it's mostly just analysing and understanding the industry. Don't get me wrong, I'm pretty interested in that as well! (If you're from my Media class and you're reading this, hey! 👋🏼 🥳)
+Media Studies is a little different than I thought it would be - I thought there would be more emphasis on the production side of media, but it's mostly just analysing and understanding the industry. Don't get me wrong, I'm pretty interested in that as well! 
 
 This is a bit weird, but I find Politics therapeutic for some reason. I probably seem like some kind of crazy person saying that breaking down policies and theories is therapeutic, but there's just this kind of vibe to it?
 
