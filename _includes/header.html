@@ -15,8 +15,10 @@
 
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-          ☰
+          <img src="/assets/icons/menu.svg" class="menu-icon-filter" style="width: 30px; height: 30px;"></img>
         </button>
+
+
         
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav navbar-center">
@@ -54,10 +56,20 @@
             transform: translatex(-50%); 
         } 
 
+        .menu-icon-filter {
+          filter: invert(29%) sepia(84%) saturate(2100%) hue-rotate(216deg) brightness(101%) contrast(113%);
+    }
+
         .nav-link:hover {
             background-color: white !important;
             border-radius: 5px !important;
         }
+
+        .navbar-toggler {
+      border: 0;
+      color: #2768FF !important;
+      border-radius: 5px;
+    }
 
         .nav-link {
             border-radius: 5px !important;
@@ -75,3 +87,4 @@
 
         </div>
     </nav>
+
