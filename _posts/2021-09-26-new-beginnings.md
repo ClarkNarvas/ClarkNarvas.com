@@ -1,7 +1,7 @@
 ---
 layout: clarkpost
 title:  "New Beginnings"
-date:   2021-07-07 00:00:00 +0000
+date:   2021-09-26 00:00:00 +0000
 featured-image: /assets/blogposts/new-beginnings/coverphoto.png
 thumbnail-alt: A park, trees all around
 tags: Diary
