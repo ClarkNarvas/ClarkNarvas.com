@@ -5,5 +5,5 @@
 layout: redirect
 title: All Blogs
 description: 
-link: /blogs/
+link: /blog/
 ---
