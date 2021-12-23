@@ -39,10 +39,10 @@ p {
 }
 
 b {
-    font-family: 'BoldFont';
+    font-family: 'BoldFont' !important;
 }
 strong {
-    font-weight: 700;
+    font-family: 'BoldFont' !important;
 }
 
 .container-writing {
