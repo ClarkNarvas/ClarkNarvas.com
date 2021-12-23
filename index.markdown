@@ -4,7 +4,7 @@
 
 layout: clarkhome
 title: Clark Narvas
-description: I'm a content creator that likes to create things 📸 - Explore my blog!
+description: Hey there, I’m Clark! I cannot summarise myself in a short, catchy tagline, but I’m simply a creative, nerdy 16-year-old content creator.
 featured-image: /assets/brand/website.png
 ---
 
