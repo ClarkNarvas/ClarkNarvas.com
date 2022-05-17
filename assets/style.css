@@ -26,7 +26,7 @@ body {
     font-size: 105%;
     border: 10px solid #2768FF;
     min-height: 100vh;
-    color: rgb(24, 24, 24);
+    color: #272e46;
 }
 
 .bg-light {
@@ -91,7 +91,7 @@ a {
 a.noactiveeffect:active {
     background-color: transparent !important;
     color: inherit !important;
-    color: black;
+    color: #272e46;
 }
 .fill {
     display: flex;

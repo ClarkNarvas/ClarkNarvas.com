@@ -5,7 +5,7 @@
 
     <span class="categoryicon" style="display: inline-block;padding-bottom: 5px;margin-top: 20px;">{{ post.tags }}</span><br>
     <a href="{{post.url}}" style="font-family: HeadingFont; font-size: 140%;display: inline;">{{post.title}}</a>
-    <p style="font-size: 90% !important;margin-top: 5px;">{{ post.content | strip_html | truncatewords: 15 }}</p>
+    <p style="font-size: 90% !important;margin-top: 5px;">{% if post.description %}{{post.description}}{%else%}{{ post.content | strip_html | truncatewords: 15 }}{%endif%}</p>
 
     <span class="page-date">{{ post.date | date: '%B %d, %Y' }}</span>
 </div>
@@ -19,7 +19,7 @@
 }
 
 .blog-card a {
-    color: black; 
+    color: #272e46;; 
     text-decoration: none;
     line-height: 1.8ch;
 }

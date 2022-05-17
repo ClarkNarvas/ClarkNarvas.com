@@ -1,8 +1,9 @@
 {% include header.html %}
 
 
+
 <div class="homepage-top" style="background-color: #F5F8FF;border-bottom: solid 2px #A7BCFF;">
-    <div class="container-writing">
+    <div class="container">
         <div class="row">
             <div  style="padding-top: 20px;padding-bottom: 10px;">
                     <h2>{{ page.title }}</h2>
@@ -14,10 +15,33 @@
 </div>
 </div>
 </div>
-<div class="container-writing">
+</div>
+
+<div class="container" style="margin-top: 30px;">
+<h3 style="margin-bottom: 30px;">The Latest</h3>
+<div class="row justify-content-center">
+
+    {% for post in site.posts limit:1 %}
+    {% include components/blogcard-major.html %}
+
+{% endfor %}
+    {% for post in site.posts limit:3 offset:1%}
+        {% include components/blogcard.html %}
+
+    {% endfor %}
+</div>
+<div class="line">
+
+</div>
+</div>
+
+
+<div class="container-writing" style="margin-bottom: 50px;">
     <div class="">
 
-        {% for post in site.posts %}
+
+
+        {% for post in site.posts offset: 4 %}
         {% include components/blogcardlite.html %}
         {% endfor %}
     </div>
