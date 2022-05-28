@@ -5,6 +5,6 @@
 layout: redirect
 title: Study with Me
 description: Feeling unmotivated? Study with me!
-link: https://bit.ly/3uD2A56
+link: https://bit.ly/3NL2hLT
 navigation_weight: 4
 ---
