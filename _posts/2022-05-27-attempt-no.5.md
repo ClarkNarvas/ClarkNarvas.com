@@ -2,10 +2,10 @@
 layout: clarkpost
 title: Attempt No. 5
 date: 2022-05-27 23:00:00 +0000
-featured-image: ''
+featured-image: "/uploads/screenshot-2022-05-28-at-16-47-46.png"
 thumbnail-alt: ''
 tags: Diary
-description: ''
+description: There's a lot that has happened since January. Let me update you all!
 
 ---
 _Yes, this blog post has taken me 4 months to write, 5 attempts and a lot of cups of hot chocolate. Bear with me._ 
