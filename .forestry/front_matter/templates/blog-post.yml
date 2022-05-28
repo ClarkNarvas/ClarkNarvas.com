@@ -7,9 +7,12 @@ fields:
   label: layout
   default: clarkpost
   hidden: true
-- type: datetime
-  name: title
+- name: title
+  type: text
+  config:
+    required: false
   label: title
+  hidden: false
 - type: datetime
   name: date
   label: date
