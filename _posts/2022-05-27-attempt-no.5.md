@@ -46,7 +46,7 @@ Last year, I read [‘The Power of Now by Eckart Tolle’](https://clarknarvas.c
 
 ###  Not perfect, but _finished_.
 
-{% include components/image.html url="/uploads/screenshot-2022-05-28-at-16-51-39.png" alt="Steve Jobs quote" description="From Steve Jobs Biography"%}
+{% include components/image.html url="/uploads/screenshot-2022-05-28-at-16-51-39.png" alt="Not perfect, but finished." description="📸"%}
 
 
 I’ve also started reading a few biographies, namely Steve Jobs and Nelson Mandela’s, and one thing stuck out to me: they are very successful, but they were never perfect people.
