@@ -9,6 +9,8 @@ description: I’ve always naturally regarded myself as introverted, but I’ve 
 
 ---
 
+<i>This is from the Notes by Clark series that you can subscribe to via email here: [Subscribe to Notes By Clark](https://www.getrevue.co/profile/narvas)</i>
+
 I’ve always naturally regarded myself as introverted, but I’ve been thinking about my behaviour. Maybe I’m not?
 
 <b>When I was very young, I was pretty joyful:</b> while many would have regarded me as a little weird, I would be talkative and, in a positive way, shameless.
