@@ -31,6 +31,7 @@ github_username:  clarknarvas
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-compress-images
 
 # Exclude from processing.
 # The following items will not be processed, by default.

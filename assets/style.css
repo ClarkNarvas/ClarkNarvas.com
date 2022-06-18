@@ -157,3 +157,7 @@ a.noactiveeffect:active {
     background-image: linear-gradient(to bottom, transparent 50%, #A7BCFF 50%);
 }
 
+.img-reduce-size .img {
+        width: 100%;
+        height: auto;
+}
