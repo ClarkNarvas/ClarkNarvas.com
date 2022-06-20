@@ -48,8 +48,8 @@ I have a great skill of reciting essential vocabulary and theories out of thin a
 
 ![](/uploads/screenshot-2022-06-18-at-19-36-35.png)
 
-_Grade last time: A (but six marks away from an A_ 😔)*
+**Grade last time: A (but six marks away from an A 😔)**
 
 I have seemed to master Politics exam technique, and I am in the 20 - 30 mark range for each question. Most of my revision was looking at the content and putting them into essay structures and timing writing my essays.
 
-_I am predicting I will get an A - A_ grade.*
+__I am predicting I will get an A - A grade.*__
