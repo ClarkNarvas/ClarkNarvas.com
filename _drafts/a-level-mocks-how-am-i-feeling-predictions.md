@@ -3,8 +3,8 @@ layout: clarkpost
 title: "✅ A Level Mocks: how am I feeling? & predictions "
 date: 2022-06-17 23:00:00 +0000
 featured-image: "/uploads/screenshot-2022-06-18-at-19-36-13.png"
-thumbnail-alt: ''
-tags: ''
+thumbnail-alt: 'Laptop on a table '
+tags: Academia
 description: ''
 
 ---
