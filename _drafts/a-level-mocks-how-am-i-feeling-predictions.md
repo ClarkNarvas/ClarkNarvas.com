@@ -22,6 +22,8 @@ Reminder: the subjects I take are Computer Science, Media Studies and Politics.
 
 ### 💻 Computer Science
 
+![](/uploads/screenshot-2022-06-18-at-19-39-39.png)
+
 **Grade last time: A**
 
 My teacher set us an entire Paper 1 test. I used 4-5 weeks to go through parts of the Computer Science curriculum that I felt pretty uneasy about and quickly skimmed through other areas where I was quite confident.
@@ -29,3 +31,23 @@ My teacher set us an entire Paper 1 test. I used 4-5 weeks to go through parts o
 I answered every question confidently except one 4-mark question. **I’m very confident I will be able to get around a B - A grade.**
 
 My only slight concern is that the Computer Science mark scheme is exact, and I might lose a few marks here and there for missing precise mark scheme points, which stops me from getting an A* grade or, in the worst-case scenario, makes me slip down to a B.
+
+### 📺 Media Studies
+
+![](/uploads/screenshot-2022-06-18-at-19-36-13.png)
+
+**Grade last time: C+**
+
+I have a great skill of reciting essential vocabulary and theories out of thin air, but last time, I mostly lacked in exam technique which stopped my essays from being very detailed.
+
+**I feel like I have mostly fixed this, and I am on my way to getting a B - A grade.** My essay structure has shifted from quantity of analysis to quality of analysis, picking the best parts or grouping little details together and analysing every single little aspect.
+
+### ✊ Politics
+
+![](/uploads/screenshot-2022-06-18-at-19-36-35.png)
+
+**Grade last time: A (but six marks away from an A* 😔)**
+
+I have seemed to master Politics exam technique, and I am in the 20 - 30 mark range for each question. Most of my revision was looking at the content and putting them into essay structures and timing writing my essays.
+
+**I am predicting I will get an A - A* grade.**
