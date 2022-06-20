@@ -5,7 +5,9 @@ date: 2022-06-17 23:00:00 +0000
 featured-image: "/uploads/screenshot-2022-06-18-at-19-36-13.png"
 thumbnail-alt: 'Laptop on a table '
 tags: Academia
-description: ''
+description: I have just completed my last set of tests in Year 1 and my second set
+  of A-Level mocks this year. I’m now reflecting on the last week and seeing what
+  I’ve done well and what I could do better.
 
 ---
 _This is from the Notes by Clark series that you can subscribe to via email here:_ [_Subscribe to Notes By Clark_](https://www.getrevue.co/profile/narvas)
