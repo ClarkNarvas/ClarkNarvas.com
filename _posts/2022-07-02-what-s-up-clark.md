@@ -17,6 +17,7 @@ June has passed, now it’s time to pick out the highlights and reflect.
 ![Sexual Health artwork at Winter Gardens in Sheffield](/uploads/img_8610-min.JPG)
 
 * **I have finished my last batch of A Level Year 1 exams! (woohoo!)** I've got some of my grades, which are similar to my predictions; I'm still waiting on politics. I will be writing a big reflection blog post on this once I've gotten all of my grades.
+
 * I have landed a placement at Sheffield City Council, and I now have the fancy title of **'Digital Media Assistant.'**
 
 * **I have now been voted in as Under 18s Officer of Sheffield Young Labour**. Do you believe we need to change the course of Britain? >> [https://join.labour.org.uk](https://join.labour.org.uk "https://join.labour.org.uk")
