@@ -1,6 +1,6 @@
 ---
 layout: clarkpost
-title: '"What''s up, Clark?" '
+title: What's up, Clark?
 date: 2022-07-02 23:00:00 +0000
 featured-image: "/uploads/img_8871-min.JPG"
 thumbnail-alt: Sheffield City Centre
