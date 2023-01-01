@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: clarkhome
-title: Clark Narvas ⎯ An insight into the world of 🤓
-description: Hey there, I’m Clark! I cannot summarise myself in a short, catchy tagline, but I’m simply a creative, nerdy 16-year-old content creator.
+title: Clark Narvas ⎯ On a new journey. 
+description: Welcome to my little online home. Here, I talk about my self-improvement journey, academia and technology.
 featured-image: /assets/brand/website.png
 ---
 
