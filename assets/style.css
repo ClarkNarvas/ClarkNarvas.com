@@ -21,7 +21,7 @@
 
 
 body {
-    font-family: ParagraphFont, Arial;
+    font-family: ParagraphFont, Arial, sans-serif;
     scrollbar-base-color: #2768FF;
     font-size: 105%;
     border: 10px solid #2768FF;

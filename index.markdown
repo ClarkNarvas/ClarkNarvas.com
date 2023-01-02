@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: clarkhome
-title: Clark Narvas ⎯ On a new journey. 
+title: Clark Narvas ⎯ A work in progress.
 description: Welcome to my little online home. Here, I talk about my self-improvement journey, academia and technology.
 featured-image: /assets/brand/website.png
 ---
