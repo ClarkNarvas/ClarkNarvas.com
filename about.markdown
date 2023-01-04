@@ -7,9 +7,7 @@ navigation_weight: 2
 featured-image: /assets/images/aboutpage/aboutclark.png
 ---
 
-Hey there, I'm Clark. 
-
-First, I'll get personal stuff out of the way: my pronouns are he/him and I'm a 16-year-old from 🇬🇧🇵🇭; my dad is an architect, and my mum is a nurse; I have two sisters (who are both twins), Pauline, and Gemmalyn.
+Hey there, I'm Clark. My pronouns are he/him and I'm from 🇬🇧🇵🇭. 
 
 I do many things! I can't really summarise it in a short and sweet tagline - but to elaborate:
 
