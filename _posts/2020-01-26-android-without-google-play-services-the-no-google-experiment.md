@@ -18,7 +18,7 @@ I decided to take the opportunity of the end of my phone contract and the start 
 
 What could go wrong? 
 
-{% include components/heading.html text="The technical jargon" %}
+{% include components/legacy/heading.html text="The technical jargon" %}
 
 <iframe src="https://giphy.com/embed/5aY2MOdRZ2y8kQfIHH" width="100%" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
@@ -34,9 +34,9 @@ I was lucky, In one of my nerdy chat servers, there was someone who knew how to 
 
 Instead of re-flashing Oxygen OS, the OnePlus skin on top of Android, I decided to use my bets on an unofficial flavor of Android… Lineage OS.
 
-{% include components/heading.html text="Lineage OS + MicroG" %}
+{% include components/legacy/heading.html text="Lineage OS + MicroG" %}
 
-{% include components/image.html alt="LineageOS for MicroG website" url="/assets/blogposts/TheNoGoogleExperiment/Lineage-OS-for-MicroG-768x381.png" %}
+{% include components/legacy/image.html alt="LineageOS for MicroG website" url="/assets/blogposts/TheNoGoogleExperiment/Lineage-OS-for-MicroG-768x381.png" %}
 
 Okay, so can I just mention how much I love Lineage OS?
 
@@ -50,7 +50,7 @@ Most apps also use Google Cloud Messages to send their notifications through ins
 
 I wish apps didn’t use so many proprietary Google API’s, MicroG wouldn’t of been needed and this project would probably be less of a pain.
 
-{% include components/heading.html text="My Replacements" %}
+{% include components/legacy/heading.html text="My Replacements" %}
 
 I’m gonna clarify that my phone isn’t completely a open source, independent phone as my difficulties with Google SafetyNet and Cloud Messages has shown. I still use some proprietary software as it’s completely impossible to replace all apps, but for those I replaced, as follows:
 
@@ -68,7 +68,7 @@ Google Maps was replaced with Magic Earth. It’s not an Open Source alternative
 
 Everything else like the Mail app have been replaced with its Lineage OS counterparts.
 
-{% include components/heading.html text="Should you do it?" %}
+{% include components/legacy/heading.html text="Should you do it?" %}
 
 Are you an Android user that’s experienced and knows your custom recoveries to your custom ROM’s? Yes.
 

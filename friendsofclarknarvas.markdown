@@ -4,7 +4,7 @@ title: Friends of Clark Narvas
 permalink: /friendsofclarknarvas/
 ---
 
-{% include components/image.html url="/assets/pages/friendsofclarknarvas/me.png" alt="Clark smiling" %}
+{% include components/legacy/image.html url="/assets/pages/friendsofclarknarvas/me.png" alt="Clark smiling" %}
 
 
 Here are links of really great people/organisations who deserve your views and clicks.

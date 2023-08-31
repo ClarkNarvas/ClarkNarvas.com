@@ -15,7 +15,7 @@ With many services and tools that would have been programs 5 years ago moving ex
 
 Here are some cross-browser web extensions that will level-up your web browsing experience to the max. 
 
-{% include components/line.html %}
+{% include   components/line.html %}
 
 ### An add-on that will make your web experience 10x more wholesome (cats included!)
 
@@ -23,13 +23,13 @@ Want something to cheer you up?
 
 [Tabby Cat](https://tabbycats.club/) is a web extension that replaces your new tab page with adorable cartoon cats. Everytime you create a new tab, an adorable new cat will pop up with an equally adorable name.
 
-{% include components/image.html url="/assets/blogposts/web-addons/Screenshot 2021-07-06 at 16.46.44.png" alt="Tabby Cat" description="Aww, isn't it cute? 🥺"%}
+{% include components/legacy/image.html url="/assets/blogposts/web-addons/Screenshot 2021-07-06 at 16.46.44.png" alt="Tabby Cat" description="Aww, isn't it cute? 🥺"%}
 
 These virtual cats can move, sleep and you’re able to pet them! If you get too attached to them, you can create snapshots of them and save them.
 
 If you're not fond of cats, there are other animal options ranging from 'Lil Doggo' to 'Tuxido Birb'.
 
-{% include components/image.html url="/assets/blogposts/web-addons/Screenshot 2021-07-07 at 15.25.00.png" alt="Tabby Cat" description="Adorable!!"%}
+{% include components/legacy/image.html url="/assets/blogposts/web-addons/Screenshot 2021-07-07 at 15.25.00.png" alt="Tabby Cat" description="Adorable!!"%}
 
 [Get Tabby Cat on Firefox Add-ons](https://addons.mozilla.org/en-GB/firefox/addon/tabby-cat-friend/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
@@ -67,7 +67,7 @@ Firefox users already have a pop-out video feature, but for those using Chromium
 
 It simply allows you to pop-out video away from a web page by clicking a button up in the toolbar. Quite straightforward, isn’t it? 
 
-{% include components/image.html url="/assets/blogposts/web-addons/Screenshot 2021-07-07 at 18.17.26.png
+{% include components/legacy/image.html url="/assets/blogposts/web-addons/Screenshot 2021-07-07 at 18.17.26.png
 " alt="Google picture-in-picture video extension" %}
 
 [Get the picture-in-picture web extension on the Chrome Web Store](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)
@@ -81,13 +81,13 @@ Have you ever been in a situation where you find a good article but you don’t 
 
 Create an account and you’ll be able to start saving articles from the Pocket button on the toolbar. You can also do this using the Pocket app on the App Store and Google Play.
 
-{% include components/image.html url="/assets/blogposts/web-addons/Screenshot 2021-07-07 at 18.21.33.png" alt="Mozilla Pocket app website" %}
+{% include components/legacy/image.html url="/assets/blogposts/web-addons/Screenshot 2021-07-07 at 18.21.33.png" alt="Mozilla Pocket app website" %}
 
 While this may not be about the add-on, one eye catching feature from the app is the ability to make it read out the article for you. You could say everything is a podcast now!
 
 [Get Pocket on the Chrome Web Store](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en-GB)
 
-{% include components/line.html %}
+{% include   components/line.html %}
 
 These add-ons have allowed me to transform my web browser from ‘just any old web browser’ into a literal swiss army knife of a program. 
 

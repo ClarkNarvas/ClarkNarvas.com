@@ -12,7 +12,7 @@ Hello everyone! Happy New Year.
 
 2020 has concluded, and with that out with the old and in with the new. Welcome to the brand new blog! 
 
-{% include components/heading.html text="My first blog... from 2016" %}
+{% include components/legacy/heading.html text="My first blog... from 2016" %}
 
 As a small commemoration to kick start the new year and the new blog, I thought it might be a good idea to show you my very first personal blog from 5 years ago (Woah) 
 
@@ -23,15 +23,15 @@ The 'Clark Toast' blog ran in the most wholesome way possible: I would bring a b
 
 I would also give a small insight into my own life: school gossip, misadventures and 'rotting water bottles', kind of like a virtual diary. 
 
-{% include components/image.html url="/assets/blogposts/LookAtOldBlogNewBlog/oldblog.png" alt="Text of old blog" description="A weirdo with pride ✊"%}
+{% include components/legacy/image.html url="/assets/blogposts/LookAtOldBlogNewBlog/oldblog.png" alt="Text of old blog" description="A weirdo with pride ✊"%}
 
 Most of my blog posts were just written in my notebook or on my phone very quickly in my spare time, or the moment we had nothing to do in class. Arguably you could say this blog is much better because it had way more content 😂
 
 I feel like time went so fast. One minute ago I only just started Year 8, and a minute later I'm about to take my GCSE's and right afterwards go to a Sixth Form (during a pandemic 😭) 
 
-{% include components/heading.html text="Rebuilding ClarkNarvas.com" %}
+{% include components/legacy/heading.html text="Rebuilding ClarkNarvas.com" %}
 
-{% include components/image.html url="/assets/blogposts/LookAtOldBlogNewBlog/oldlayout.png" alt="Old blog post layout" description="RIP 😪 2019-2021"%}
+{% include components/legacy/image.html url="/assets/blogposts/LookAtOldBlogNewBlog/oldlayout.png" alt="Old blog post layout" description="RIP 😪 2019-2021"%}
 
 My site was rocking a heavily customised version of the default WordPress template. It was becoming a bit bloated, so I decided to completely redo the site from the ground up.
 

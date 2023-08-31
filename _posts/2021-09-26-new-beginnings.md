@@ -13,7 +13,7 @@ Starting a new school is daunting. New environment, new people, new teachers (or
 
 I'm taking a big mix of subjects for A-Levels: Computer Science, Media Studies and Politics. Yes, three different career pathways! I don't have much of a set plan on what I want to do in the future, but I'm sure it will be either in media or technology.
 
-{% include components/line.html %}
+{% include   components/line.html %}
 
 ### Becoming brainy 🧠
 
@@ -43,10 +43,10 @@ Because it's further away, it's given me more of an excuse to venture out a lot 
 It's now my own little hangout spot where I relax and collect my thoughts after a long day (and also watch the ducks, I love ducks.)
 
 
-{% include components/line.html %}
+{% include   components/line.html %}
 
 This is probably the calm before the storm. In no time, I will be swarmed with work, stressed and looking like that guy from 'Ancient Aliens', except a tad less enthusiastic and a tad more "what am I doing with my life?". Not going to like it, but it is what it is. 🤷🏻‍♂️
 
 Until then, forward! ➡️
 
-{% include components/image.html url="/assets/blogposts/new-beginnings/iu.jpeg" alt="Ancient Aliens guy" description="The next time you see me..."%}
+{% include components/legacy/image.html url="/assets/blogposts/new-beginnings/iu.jpeg" alt="Ancient Aliens guy" description="The next time you see me..."%}

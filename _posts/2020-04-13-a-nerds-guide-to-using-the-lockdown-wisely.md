@@ -24,7 +24,7 @@ Doing the math: 2 months is 8 weeks, 8 weeks is 60 days and 60 days is 1344 hour
 
 So, here’s a little guide on how to use this lockdown to your advantage.
 
-{% include components/heading.html text="Organize your life" %}
+{% include components/legacy/heading.html text="Organize your life" %}
 
 <div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/jqr3YlWh9yUvXk5LQ0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Friends-episode-6-friends-tv-the-one-with-dirty-girl-jqr3YlWh9yUvXk5LQ0">via GIPHY</a></p>
 
@@ -45,12 +45,12 @@ However, there are other ways of going around it. If you’re a bit more creativ
 
 They’re books that you’d be able to log and organise your life, kind of like a diary, but you can use it as anything. I’ve seen people do sleep trackers, a book planner and a mental health log in them.
 
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/04/2.jpg" alt="A really aesthetically pleasing and amazing Bullet Journal by @Anna_bel_9 on Instagram" description="A really aesthetically pleasing and amazing Bullet Journal by @Anna_bel_9 on Instagram 🤩" %}
+{% include components/legacy/image.html url="/assets/oldsitearchive/uploads/2020/04/2.jpg" alt="A really aesthetically pleasing and amazing Bullet Journal by @Anna_bel_9 on Instagram" description="A really aesthetically pleasing and amazing Bullet Journal by @Anna_bel_9 on Instagram 🤩" %}
 
 
 
 
-{% include components/heading.html text="Start Meditating" %}
+{% include components/legacy/heading.html text="Start Meditating" %}
 
 <div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/VWfuBgdqM8jZK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/meditation-VWfuBgdqM8jZK">via GIPHY</a></p>
 
@@ -67,7 +67,7 @@ When my Headspace trial expired, I started to piggy back off my sister’s Calm 
 
 You don’t have to start learning on an app, there are plenty of free guided meditation resources on YouTube and if you have an Apple Watch, Fitbit or a Wear OS watch, you’d be able to use the breathe apps that should be preinstalled.
 
-{% include components/heading.html text="Start Reading Books" %}
+{% include components/legacy/heading.html text="Start Reading Books" %}
 
 <div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/WoWm8YzFQJg5i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoons-comics-sea-reading-WoWm8YzFQJg5i">via GIPHY</a></p>
 
@@ -84,13 +84,13 @@ The standard for reading online at the moment and the most accessible service is
 Audiobooks are increasingly becoming popular. Instead of reading a book, the book gets read to you. Audible by Amazon (yet again) is the most accessible service. Unlike traditional books or digital books, you can only listen to one audible book at the time.
 https://b-ok.cc
 
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/04/Screenshot-from-2020-04-23-18-30-56.png" alt="b-ok.cc" %}
+{% include components/legacy/image.html url="/assets/oldsitearchive/uploads/2020/04/Screenshot-from-2020-04-23-18-30-56.png" alt="b-ok.cc" %}
 
 A free way to read books is the site [https://b-ok.cc](https://b-ok.cc). It’s by Z-Library, a place that sources books and articles. You’ll be able to download books in formats like PDF and EPUB. To read them, you’ll need a e-book client.
 
 Whatever you decide, it’s great to have a little bit of downtime and to absorb yourself into a good book.
 
-{% include components/heading.html text="Learn a new skill" %}
+{% include components/legacy/heading.html text="Learn a new skill" %}
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/8pUgs7JXe4LBK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/skill-pancake-8pUgs7JXe4LBK">via GIPHY</a></p>
 
@@ -102,7 +102,7 @@ If you want a better experience, Udemy is another great place. There are a mixtu
 
 If you don’t want to shell out cash, UdemyFreeCourses.com is a good companion site where you can find free courses.
 
-{% include components/heading.html text="Get some exercise" %}
+{% include components/legacy/heading.html text="Get some exercise" %}
 
 <iframe width="600" height="337" src="https://www.youtube.com/embed/n7y61NOl5P0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -116,9 +116,9 @@ If you live in the UK, you must be living under a rock if you don’t know who J
 
 At 9am (BST) everyday on his YouTube channel ‘The Body Coach TV, he does a live workout session called ‘PE with Joe’. The classes are designed for children and teens, however, I doubt he’d mind anyone above that age joining in.
 
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/04/Screenshot-from-2020-04-23-18-29-24.png" alt="b-ok.cc" %}
+{% include components/legacy/image.html url="/assets/oldsitearchive/uploads/2020/04/Screenshot-from-2020-04-23-18-29-24.png" alt="b-ok.cc" %}
 
-{% include components/heading.html text="Stay in Touch" %}
+{% include components/legacy/heading.html text="Stay in Touch" %}
 
 This lockdown doesn’t have to be a indication to the end of your social life for the foreseeable future. With the power of the internet, you can be right there with them!
 

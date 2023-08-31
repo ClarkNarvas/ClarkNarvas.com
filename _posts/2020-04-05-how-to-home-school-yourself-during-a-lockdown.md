@@ -19,13 +19,13 @@ So, on what would be the week before the end of my school’s Easter Holiday, Th
 
 My school has set us work instead of creating online classes, so feel free to skip individual tips if you don’t need them.
 
-{% include components/heading.html text="Structure, Structure, Structure!" %}
+{% include components/legacy/heading.html text="Structure, Structure, Structure!" %}
 
 The most crucial 2 things I’ve learnt from one week of this – <b>Planning ahead and structure is a must.</b>
 
 Take 30 minutes each week sometime in the weekend to plan your entire week on a spreadsheet or your notepad and putting the resources you need into folders. By doing this, you’ll be avoiding the ‘What am I doing?’ question that takes time away from studying and dedicates it to trying to find the work you’ve been set.
 
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/04/image.png" alt="Schedule spreadsheet" %}
+{% include components/legacy/image.html url="/assets/oldsitearchive/uploads/2020/04/image.png" alt="Schedule spreadsheet" %}
 Create a schedule, allow for a varied amount of subjects everyday, and stick to that schedule. It doesn’t have to be your exact school schedule, however I tweaked my school schedule so it had more breaks and an earlier start.
 
 I’ve also planned late starts on the days where I have PE. If I don’t have PE in my first period I move my first lesson to the period where I normally have PE in as I feel like if I have a big free period then I would loose a lot of momentum.
@@ -47,7 +47,7 @@ Those 17 minutes were often spent away from the computer, either taking a walk o
 
 The 52/17 technique works because during those 52 minutes, you are working with purpose and focus. And then when you have a break, you are allowing yourself to refresh and ‘recharge’.
 
-{% include components/heading.html text="Get away from your phone!" %}
+{% include components/legacy/heading.html text="Get away from your phone!" %}
 
 <div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/dtBi0s3hndz7q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/phone-cell-dog-dtBi0s3hndz7q">via GIPHY</a></p>
 
@@ -67,7 +67,7 @@ You can also try to make it more complicated to access them by hiding them into 
 
 On iOS and Android, there’s a feature called Greyscale that makes your screen black and white. Turning it on will make you want to use your phone less if you get distracted and creates a mental barrier between you and the content.
 
-{% include components/heading.html text="Switch things up" %}
+{% include components/legacy/heading.html text="Switch things up" %}
 
 Novelty, change, and really just new stuff stimulates the brain. That’s why whenever you get a new phone, or a new set of pens and pencils, or eating at some fancy restaurant (when we were able to) makes you feel so good, other than the taste of the food.
 
@@ -77,7 +77,7 @@ Novelty doesn’t just mean moving rooms, something just needs to be different: 
 
 Scientifically, studies have shown that the plasticity of the hippocampus (the ability to create connections between neurons) was increased by novelty, and has also shown to have increased the memory retention of test subjects.
 
-{% include components/heading.html text="See where your gaps are" %}
+{% include components/legacy/heading.html text="See where your gaps are" %}
 
 A benefit of this whole home-schooling thing is that you’re free from restrictions of a teacher and a curriculum to follow. You can finally get the opportunity to spend time on things you don’t really get.
 
@@ -94,7 +94,7 @@ The app is very simple and it allows me to uncheck and check certain days if I�
 
 On mine, I’ve listed out all 5 school periods to really give myself a challenge but you can just have a “study” task.
 
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/04/2020-04-05-13.57.38.jpg" alt="To-do list" description="absolute satisfaction"%}
+{% include components/legacy/image.html url="/assets/oldsitearchive/uploads/2020/04/2020-04-05-13.57.38.jpg" alt="To-do list" description="absolute satisfaction"%}
 
 I hope this has been helpful for you, especially in these uncertain, weird but historical times.
 
