@@ -15,8 +15,8 @@ If our digital life was a room, the room would be filled with 10000+ unread emai
 
 So, here’s a little guide I put together to help you clean this mess up! 🤓
 
-{% include components/heading.html text="Your Apps" %}
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/01/mobile-apps-collage-ss-1920.jpg" %}
+{% include components/legacy/heading.html text="Your Apps" %}
+{% include components/legacy/image.html url="/assets/oldsitearchive/uploads/2020/01/mobile-apps-collage-ss-1920.jpg" %}
 
 Scroll through your phone and find apps that you don’t use and delete them, then find apps that you don’t feel like give you any value or wastes your time and delete them.
 
@@ -24,7 +24,7 @@ On Android, there are apps that can help you do this (arguably, you could say th
 
 Any apps that you can’t delete, try and disable or hide them from your phone.
 
-{% include components/heading.html text="Your Photos" %}
+{% include components/legacy/heading.html text="Your Photos" %}
 
 For this, I’d recommend you’d upload all your photos onto cloud storage so you’d be able to access them anywhere.
 
@@ -34,7 +34,7 @@ If you’re not a huge privacy geek like me and you really like the Google Eco-s
 <i>[UPDATED 30/12/2020: Google is to discontinue free unlimited photos in March, there aren't any free photo alternatives.]</i>
 .
 
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/01/ximg_55dc686acc2b6.jpg.pagespeed.gpjpjwpjwsjsrjrprwricpmd.ic_.R9Fwgf_UTo.jpg" alt="Google Photos" description="(Not my image)" %}
+{% include components/legacy/image.html url="/assets/oldsitearchive/uploads/2020/01/ximg_55dc686acc2b6.jpg.pagespeed.gpjpjwpjwsjsrjrprwricpmd.ic_.R9Fwgf_UTo.jpg" alt="Google Photos" description="(Not my image)" %}
 
 
 
@@ -42,7 +42,7 @@ Other alternatives are uploading all your photos to a traditional cloud storage 
 
 Now, scroll through your photos and delete duplicate images, weird screenshots you don’t need or random accidental selfies you’ve taken.
 
-{% include components/heading.html text="Your Notifications" %}
+{% include components/legacy/heading.html text="Your Notifications" %}
 
 I never really paid attention to notifications before. I used to just let them build up, but what I’ve found out is that, not only unnecessary notifications look really untidy, but they make you become less productive. Let’s fix that!
 
@@ -65,7 +65,7 @@ This may vary between each iOS
     Click on the apps you get unnecessary notifications from
     Hide them into the notification center or disable them completely
 
-{% include components/heading.html text="Your Computer Files" %}
+{% include components/legacy/heading.html text="Your Computer Files" %}
 
 My computer files are the most messiest dump of ’digital waste‘ you will probably ever see. Full of images, .exe files and a lot of After Effects project files. You’ll probably be able to relate to an extent.
 
@@ -75,12 +75,12 @@ After doing this, you should re-evaluate all the files you have on your computer
 
 I’d then sort it all into folders that would act as little categories for all your files.
 
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/02/image.png" alt="Files" %}
+{% include components/legacy/image.html url="/assets/oldsitearchive/uploads/2020/02/image.png" alt="Files" %}
 To do this I used MEGA, a privacy-first and encrypted Cloud Storage provider based in New Zealand that has plans that don’t break the bank and can be used on all devices.
 
 This should remove all the clutter from your computer and should make it easier to navigate, not just on your computer but also on your mobile device.
 
-{% include components/heading.html text="Social Media" %}
+{% include components/legacy/heading.html text="Social Media" %}
 
 This is probably by far the most embarrassing one, I’m saying that from experience. 😂
 
@@ -97,13 +97,13 @@ On Facebook, there’s a tool called ‘Limit Past Posts’ which will hide your
 On Instagram, there are apps like Cleaner for Instagram which let you select how many photos you want deleted. If you want to keep your images, there is an archive button in the Instagram app.
 
 
-{% include components/heading.html text="Emails" %}
+{% include components/legacy/heading.html text="Emails" %}
 
 This is the worst one.
 
 My emails are mostly full of old email subscriptions I have never opened and loads of spam emails from companies that wanna give me ‘FREE SAMPLES’. Let’s solve that!
 
-{% include components/image.html url="/assets/oldsitearchive/uploads/2020/02/image.png" alt="Get your FREE samples today spam email" description="Do anyone still believe these?" %}
+{% include components/legacy/image.html url="/assets/oldsitearchive/uploads/2020/02/image.png" alt="Get your FREE samples today spam email" description="Do anyone still believe these?" %}
 
 
 The most manual way of doing this is to just scroll through your emails and then delete/unsubscribe the emails that you don’t really open or bring value to you.

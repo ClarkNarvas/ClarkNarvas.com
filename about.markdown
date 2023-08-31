@@ -72,7 +72,7 @@ I'm on a journey to seek the best version of myself by swearing on spiritual tea
 Starting habits such as meditation and exercising at least once every day has helped me go forward in that path and make me feel much more energetic and calm. As I'm writing this, I'm intending to start regular journaling and minimalism so I can let go of mental and physical baggage. 
 
 
-{% include components/line.html %}
+{% include   components/line.html %}
 
 TLDR: I'm an nerdy, introverted, creative, political enthusiast content creator who is trying to get onto the highest level in the game of life. 
 

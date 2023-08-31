@@ -16,11 +16,11 @@ There’s a lot that has happened since January. Let me update you all!
 
   
 
-{% include components/line.html %}
+{% include   components/line.html %}
 
 ### Knowing my limits
 
-{% include components/image.html url="/uploads/screenshot-2022-05-28-at-16-47-10.png" alt="Clark Narvas working" description="Posing."%}
+{% include components/legacy/image.html url="/uploads/screenshot-2022-05-28-at-16-47-10.png" alt="Clark Narvas working" description="Posing."%}
 
 
 
@@ -34,7 +34,7 @@ But with this very rapid transformation, I eventually started feeling fatigued a
 
 ### Restraining my unconscious mind
 
-{% include components/image.html url="/uploads/screenshot-2022-05-28-at-16-50-00.png" alt="Steve Jobs quote" description="From Steve Jobs Biography"%}
+{% include components/legacy/image.html url="/uploads/screenshot-2022-05-28-at-16-50-00.png" alt="Steve Jobs quote" description="From Steve Jobs Biography"%}
 
 
 There was this research study that I heard about in a podcast (I think it was [Mindset Mentor by Rob Dial](https://robdial.com/podcast/)?) where scientists put people in a low-powered electric shock chair and told them to stay there with their unconscious minds for 15 minutes. When they feel like their thoughts are unbearable, they can press a button to zap themselves and get out of the chair. Most people in the experiment could not stay with their thoughts for 15 minutes.
@@ -46,7 +46,7 @@ Last year, I read [‘The Power of Now by Eckart Tolle’](https://clarknarvas.c
 
 ###  Not perfect, but _finished_.
 
-{% include components/image.html url="/uploads/screenshot-2022-05-28-at-16-51-39.png" alt="Not perfect, but finished." description="📸"%}
+{% include components/legacy/image.html url="/uploads/screenshot-2022-05-28-at-16-51-39.png" alt="Not perfect, but finished." description="📸"%}
 
 
 I’ve also started reading a few biographies, namely Steve Jobs and Nelson Mandela’s, and one thing stuck out to me: they are very successful, but they were never perfect people.
@@ -57,7 +57,7 @@ My living philosophy recently has been about ticking tasks and constant progress
 
 When I fix a problem, more problems seem to pop up, just like a game of whack-a-mole. I guess there’s no way to prevent that, and it’s about solving it step-by-step.
 
-{% include components/line.html %}
+{% include   components/line.html %}
 
 ### Other things I’ve found cool this month (+ the past few months)
 

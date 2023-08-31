@@ -16,7 +16,7 @@ But recently, I’ve *thought* that perhaps now is the time to turn off the nois
 
 **My mind has turned into a form of escapism**, one that creates unnecessary emotions and thinks too deeply into the future when really, all that is needed is what is happening right now. It’s also quite a dangerous creature when I’m not able to control it: I make unwise decisions, self-sabotage and ruin my routine.
 
-{% include components/line.html %}
+{% include   components/line.html %}
 
 ### Causes of my overthinking
 

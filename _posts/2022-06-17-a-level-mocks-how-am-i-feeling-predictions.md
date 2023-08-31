@@ -14,7 +14,7 @@ _This is from the Notes by Clark series that you can subscribe to via email here
 
 I have just completed my last set of tests in Year 1 and my second set of A-Level mocks this year. **I’m now reflecting on the last week and seeing what I’ve done well and what I could do better.**
 
-{% include components/line.html %}
+{% include   components/line.html %}
 
 ### The general feeling 😀
 
