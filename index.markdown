@@ -18,5 +18,5 @@ I know several programming, scripting and database languages: HTML, CSS, JavaScr
 
 My work is defined as a proficient organiser who is efficient and delivers with quality. I’ve used these skills to create an impact in non-profit organisations and campaigns.
 
+[Want to see what I'm up to now? Check out By Clark](https://by.clarknarvas.com)
 
-<center>[Want to see what I'm up to now? Check out By Clark](https://by.clarknarvas.com)</center>
