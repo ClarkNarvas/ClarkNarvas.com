@@ -6,7 +6,7 @@ layout: clarkpagebanner
 title: Clark Narvas
 description: On a new journey
 link: https://bit.ly/3wu6f2M
-featured-image: assets/brand/newbanner.png
+featured-image: assets/brand/cngrey.png
 ---
 
 
