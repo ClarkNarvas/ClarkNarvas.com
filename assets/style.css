@@ -1,30 +1,45 @@
 /** Fonts **/
-@font-face {
-    font-family: ParagraphFont;
-    src: url(/assets/brand/fonts/Metropolis-Medium.woff);
-  }
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+@import url("https://use.typekit.net/meh5uoe.css");
 
-  @font-face {
-    font-family: HeadingFont;
-    src: url(/assets/brand/fonts/Metropolis-ExtraBold.woff);
-  }
 
-  @font-face {
-    font-family: BoldFont;
-    src: url(/assets/brand/fonts/Metropolis-Bold.woff);
-  }
 
-  @font-face {
-    font-family: BlackFont;
-    src: url(/assets/brand/fonts/Metropolis-Black.woff);
-  }
 
+
+
+.thinner {
+  font-weight: 400;
+}
+
+.special {
+  font-family: "desire-pro", serif;
+  font-weight: 400;
+}
+
+
+
+
+a {
+    color: #DE3C4B; 
+    .bi-arrow-right {
+      transition: 0.3s ease-in-out;
+    }
+}
+
+a:hover {
+    color: #9a2632;
+    .bi-arrow-right {
+      transition: 0.3s ease-in-out;
+      padding-left: 5px;
+    }
+}
 
 body {
-    font-family: ParagraphFont, Arial, sans-serif;
-    scrollbar-base-color: #2768FF;
+    font-family: "elza", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    scrollbar-base-color: #DE3C4B;
     font-size: 105%;
-    border: 10px solid #2768FF;
     min-height: 100vh;
     color: #272e46;
 }
@@ -35,14 +50,14 @@ body {
 
 
 p {
-    font-family: 'ParagraphFont';
+    font-family: ''Elza'';
 }
 
 b {
-    font-family: 'BoldFont' !important;
+    font-family: 'Elza';
 }
 strong {
-    font-family: 'BoldFont' !important;
+    font-family: 'Elza';
 }
 
 .container-writing {
@@ -68,13 +83,15 @@ strong {
 }
 
 .page-details {
-    border-bottom: #467cff 3px solid;
+    border-bottom: #DE3C4B 3px solid;
     padding-bottom: 10px;
     margin-bottom: 20px;
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: HeadingFont;
+    font-family: "elza", sans-serif;
+    font-weight: 900;
+    font-style: normal;
     padding: 0;
     margin: 0;
 }
@@ -106,10 +123,10 @@ a.noactiveeffect:active {
 }
 
 .categoryicon {
-    font-family: ParagraphFont;
+    font-family: 'Elza';
     display: inline-block;
     text-transform: uppercase;
-    color: #2768FF;
+    color: #DE3C4B;
 }
 
 .line {
@@ -120,7 +137,7 @@ a.noactiveeffect:active {
     margin-bottom: 50px;
 }
 .footer {
-    background-color:#ebf0ff;
+    background-color:#F1F1F1;
     min-height: 200px;
     text-align: center;
     padding-top: 25px;
@@ -134,7 +151,7 @@ a.noactiveeffect:active {
 
 .anworldof {
     font-size: 80% !important;
-    font-family: ParagraphFont;
+    font-family: 'Elza';
     font-style: italic;
     font-weight: normal;
 }
@@ -147,7 +164,7 @@ a.noactiveeffect:active {
     border-radius: 200px !important;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #2768FF;
+    background-color: #DE3C4B;
     font-family: BlackFont;
     padding-top: 5px;
     padding-bottom: 5px;
