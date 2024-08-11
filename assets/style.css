@@ -178,3 +178,14 @@ a.noactiveeffect:active {
         width: 100%;
         height: auto;
 }
+
+.homepage-card {
+    max-width: 500px;
+    min-width: 1px;
+    width: auto;
+    margin: 30px;
+}
+
+.bg-grey {
+    background-color: #F1F1F1;
+}

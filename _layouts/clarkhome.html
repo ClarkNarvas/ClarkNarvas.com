@@ -1,38 +1,30 @@
 {% include header.html %}
 
-
-{% include specialised/top-page-home.html %}
-<div class="container createpaddingonmobile">
-    <br><br>
-    <div class="row justify-content-center" style="">
-        {% include components/blue-emoji-card.html emoji="📖" title="wanna read?" description="Check out my written thoughts, opinions and tips!" url="/allblogs" button="Read" %}
-        {% include components/blue-emoji-card.html emoji="🎥" title="wanna watch?" description="Here’s a bunch of videos I’ve made in my freetime" url="https://www.youtube.com/channel/UCu197cd4WVhhCUKD1yk0PPQ" button="Watch" %}
-        {% include components/blue-emoji-card.html emoji="🛣" title="start from here" description="Don’t know where to start? <br>Start here." url="/starthere" button="Go" %}
-
-        
-
-    </div>
-<div class="line">
-
-</div>
-<h2 style="padding-bottom: 20px;">The Blog</h2>
-    <div class="row justify-content-center" style="">
-
-        {% for post in site.posts limit:1 %}
-        {% include components/blogcard-major.html %}
-
-    {% endfor %}
-        {% for post in site.posts limit:3 offset:1%}
-            {% include components/blogcard.html %}
-
-        {% endfor %}
-</div>
+<div class="fixed-top d-flex w-100 p-4" >
+    <img class="mx-auto" src="assets/brand/cn2024.png" style="height: 40px; width: 40px;">
 </div>
 
-<a href="/allblogs"><h2 style="text-align: center;margin: 30px;"> << More Blog Posts</h2></a>
+<div class="d-flex vh-100 bg-grey">
+
+<div class="homepage-content mx-auto my-auto ">
+<div class="homepage-card card">
+
+<img src="https://pbs.twimg.com/profile_images/1707034649732550656/owHoET6r_400x400.jpg" style="width: 100%; height: auto;">
+
+<div class="card-body mx-2 my-2">
+<h1 class="special large-fs">Clark Narvas</h1>
+<p>Clark Narvas is a multi-hyphenate. He builds a range of different static and interactive media including websites, applications, videos and graphics on digital and physical forms.</p>
+<a href="mailto:clark@narvas.co.uk" class="fs-5"><b>Get in touch</b></a><br>
+
+<hr>
+<a href="https://clarknarvas.substack.com">Read 'Notes by Clark' on Substack</a><br>
+<a href="https://by.clarknarvas.com">Browse Portfolio</a><br>
+<a href="https://bio.link/clark">Browse Links</a>
+
+
+
 </div>
 
-  
-
-{% include footer.html %}
-
+</div>
+</div>
+</div>
