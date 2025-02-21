@@ -1,7 +1,6 @@
 /** Fonts **/
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
-@import url("https://use.typekit.net/meh5uoe.css");
-
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Instrument+Serif:ital@0;1&display=swap');
 
 
 
@@ -12,7 +11,7 @@
 }
 
 .special {
-  font-family: "desire-pro", serif;
+  font-family: "Instrument Serif", serif;
   font-weight: 400;
 }
 
@@ -20,14 +19,14 @@
 
 
 a {
-    color: #DE3C4B; 
+    color: #3650B8; 
     .bi-arrow-right {
       transition: 0.3s ease-in-out;
     }
 }
 
 a:hover {
-    color: #9a2632;
+    color: #0F4228;
     .bi-arrow-right {
       transition: 0.3s ease-in-out;
       padding-left: 5px;
@@ -35,10 +34,10 @@ a:hover {
 }
 
 body {
-    font-family: "elza", sans-serif;
+    font-family: "Instrument Sans", sans-serif;
     font-weight: 400;
     font-style: normal;
-    scrollbar-base-color: #DE3C4B;
+    scrollbar-base-color: #3650B8;
     font-size: 105%;
     min-height: 100vh;
     color: #272e46;
@@ -50,14 +49,14 @@ body {
 
 
 p {
-    font-family: ''Elza'';
+    font-family: ''Instrument Sans'';
 }
 
 b {
-    font-family: 'Elza';
+    font-family: 'Instrument Sans';
 }
 strong {
-    font-family: 'Elza';
+    font-family: 'Instrument Sans';
 }
 
 .container-writing {
@@ -83,13 +82,13 @@ strong {
 }
 
 .page-details {
-    border-bottom: #DE3C4B 3px solid;
+    border-bottom: #3650B8 3px solid;
     padding-bottom: 10px;
     margin-bottom: 20px;
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: "elza", sans-serif;
+    font-family: "Instrument Sans", sans-serif;
     font-weight: 900;
     font-style: normal;
     padding: 0;
@@ -123,10 +122,10 @@ a.noactiveeffect:active {
 }
 
 .categoryicon {
-    font-family: 'Elza';
+    font-family: 'Instrument Sans';
     display: inline-block;
     text-transform: uppercase;
-    color: #DE3C4B;
+    color: #3650B8;
 }
 
 .line {
@@ -151,7 +150,7 @@ a.noactiveeffect:active {
 
 .anworldof {
     font-size: 80% !important;
-    font-family: 'Elza';
+    font-family: 'Instrument Sans';
     font-style: italic;
     font-weight: normal;
 }
@@ -164,7 +163,7 @@ a.noactiveeffect:active {
     border-radius: 200px !important;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #DE3C4B;
+    background-color: #3650B8;
     font-family: BlackFont;
     padding-top: 5px;
     padding-bottom: 5px;
