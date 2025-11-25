@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+:root {
+  --background: #F7FDFF;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --font-sans: var(--font-instrument-sans);
+  --font-serif: var(--font-instrument-serif);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #220402;
+    --foreground: #F7FDFF;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), "Helvetica Neue", Arial, sans-serif;
+}
+
+::selection {
+  background: #9ADAC4;
+  color: #171717;
+}
