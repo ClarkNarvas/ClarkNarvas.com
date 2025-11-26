@@ -53,7 +53,7 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col md:flex-row min-h-screen">
+    <div className="flex flex-col md:flex-row min-h-screen lg:items-stretch">
 
     <div className="w-full lg:w-[50%] flex flex-col lg:px-12 lg:py-8">
 
@@ -139,7 +139,7 @@ export default function Home() {
       </motion.a>
     </div>
 
-    <div className="hidden lg:block lg:w-[50%] lg:h-[100vh] px-4 pb-8 lg:p-5">
+    <div className="hidden lg:block lg:w-[50%] lg:h-screen px-4 pb-8 lg:p-5 lg:sticky lg:top-0 lg:self-start">
       <motion.div
         className="relative w-full h-full min-h-[320px] md:min-h-[500px]"
         variants={photo}
