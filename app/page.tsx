@@ -3,8 +3,11 @@
 import type { Variants } from "motion/react";
 import { cubicBezier, motion } from "motion/react";
 import Image from "next/image";
+import { useState } from "react";
 
 export default function Home() {
+  const [mobileImageLoaded, setMobileImageLoaded] = useState(false);
+  const [desktopImageLoaded, setDesktopImageLoaded] = useState(false);
 
   const container: Variants = {
     hidden: { opacity: 1 },
@@ -62,7 +65,7 @@ export default function Home() {
         className="relative block lg:hidden w-full aspect-[4/3] overflow-hidden"
         variants={photo}
         initial="hidden"
-        animate="show"
+        animate={mobileImageLoaded ? "show" : "hidden"}
       >
         <Image
           src="/clark-narvas.jpg"
@@ -71,6 +74,7 @@ export default function Home() {
           className="object-cover"
           sizes="100vw"
           priority
+          onLoadingComplete={() => setMobileImageLoaded(true)}
         />
       </motion.div>
 
@@ -145,7 +149,7 @@ export default function Home() {
         className="relative w-full h-full min-h-[320px] md:min-h-[500px]"
         variants={photo}
         initial="hidden"
-        animate="show"
+        animate={desktopImageLoaded ? "show" : "hidden"}
       >
         <Image
         src="/clark-narvas.png"
@@ -153,6 +157,8 @@ export default function Home() {
         fill
         className="object-cover"
         sizes="(min-width: 768px) 50vw, 100vw"
+        priority
+        onLoadingComplete={() => setDesktopImageLoaded(true)}
         />
       </motion.div>
     </div>
