@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Geist_Mono, Instrument_Sans, Instrument_Serif } from "next/font/google";
 import "./globals.css";
+import { GoogleAnalytics } from '@next/third-parties/google'
+
 
 const instrumentSans = Instrument_Sans({
   variable: "--font-instrument-sans",
@@ -55,6 +57,7 @@ export default function RootLayout({
       <body
         className={`${instrumentSans.variable} ${instrumentSerif.variable} ${geistMono.variable} antialiased`}
       >
+        <GoogleAnalytics gaId="G-K0VKJ99KNN" />
         {children}
       </body>
     </html>
