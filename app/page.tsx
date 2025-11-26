@@ -57,12 +57,12 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col md:flex-row min-h-screen lg:items-stretch">
+    <div className="flex flex-col md:flex-row min-h-screen md:items-stretch">
 
-    <div className="w-full lg:w-[50%] flex flex-col lg:px-12 lg:py-8">
+    <div className="w-full md:w-[50%] flex flex-col md:px-12 md:py-8">
 
       <motion.div
-        className="relative block lg:hidden w-full aspect-[4/3] overflow-hidden"
+        className="relative block md:hidden w-full aspect-[4/3] overflow-hidden"
         variants={photo}
         initial="hidden"
         animate={mobileImageLoaded ? "show" : "hidden"}
@@ -79,7 +79,7 @@ export default function Home() {
       </motion.div>
 
       <motion.div
-        className="max-w-xl w-full mx-auto lg:my-auto px-7 py-8 lg:p-0 mb-12  "
+        className="max-w-xl w-full mx-auto md:my-auto px-7 py-8 md:p-0 mb-12  "
         variants={container}
         initial="hidden"
         animate="show"
@@ -144,7 +144,7 @@ export default function Home() {
       </motion.a>
     </div>
 
-    <div className="hidden lg:block lg:w-[50%] lg:h-screen px-4 pb-8 lg:p-5 lg:sticky lg:top-0 lg:self-start">
+    <div className="hidden md:block md:w-[50%] md:h-screen px-4 pb-8 md:p-5 md:sticky md:top-0 md:self-start">
       <motion.div
         className="relative w-full h-full min-h-[320px] md:min-h-[500px]"
         variants={photo}
