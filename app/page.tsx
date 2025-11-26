@@ -1,11 +1,12 @@
 "use client";
 
-import { motion } from "motion/react";
+import type { Variants } from "motion/react";
+import { cubicBezier, motion } from "motion/react";
 import Image from "next/image";
 
 export default function Home() {
 
-  const container = {
+  const container: Variants = {
     hidden: { opacity: 1 },
     show: {
       opacity: 1,
@@ -16,20 +17,20 @@ export default function Home() {
     },
   };
 
-  const line = {
+  const line: Variants = {
     hidden: { opacity: 0, y: 0 },
     show: {
       opacity: 1,
       y: 0,
       transition: {
         duration: 3,
-        ease: [0.16, 1, 0.3, 1],
+        ease: cubicBezier(0.16, 1, 0.3, 1),
         type: "tween",
       },
     },
   };
 
-  const cta = {
+  const cta: Variants = {
     hidden: { opacity: 0, y: 40, scale: 0.95 },
     show: {
       opacity: 1,
@@ -37,18 +38,18 @@ export default function Home() {
       scale: 1,
       transition: {
         duration: 0.6,
-        ease: [0.16, 1, 0.3, 1],
+        ease: cubicBezier(0.16, 1, 0.3, 1),
         type: "tween",
       },
     },
   };
 
-  const photo = {
+  const photo: Variants = {
     hidden: { opacity: 0, filter: "grayscale(1)" },
     show: {
       opacity: 1,
       filter: "grayscale(0)",
-      transition: { duration: 3, ease: [0.16, 1, 0.3, 1] },
+      transition: { duration: 3, ease: cubicBezier(0.16, 1, 0.3, 1) },
     },
   };
 
