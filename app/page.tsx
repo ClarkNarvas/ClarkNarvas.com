@@ -97,7 +97,7 @@ export default function Home() {
 
 
       <motion.p className="text-base md:text-xl tracking-tight mb-4 md:mb-6" variants={line}>
-        One day when I was 7 years old, I was like, “how do I make a video game?”. I googled it.
+        One day when I was 7 years old, I googled “how do I make a video game?”
       </motion.p>
 
       <motion.p className="text-base md:text-xl tracking-tight mb-4 md:mb-6" variants={line}>
